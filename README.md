@@ -4,8 +4,8 @@
 </br>
 </br>
 
-# Yrgo School Projects
-# S.O.S
+# <ins>Yrgo Game Projects</ins>
+## S.O.S
 _**Development: 2025 april - ??? July**_
 </br>
 </br>
@@ -23,7 +23,8 @@ _**Team:**_ 4 programmers and 2 Artists
 </br>
 </br>
 
-# *Dead Earth* (Personal Side Project)
+# <ins>Personal Project</ins>
+## *Dead Earth*
 ### You lead the despreat group of survivors of a penal colony overrun by mosters. Your goal? Get of the planet!
 
 _**Development: 2025 april - ongoing**_
