@@ -1,18 +1,47 @@
 # Resume: Erik Berglund
-## Credentials
 ## About Me
+</br>
+</br>
+</br>
 
 # Yrgo School Projects
 # S.O.S
-*Developed: 2025 april - ??? July*
-My Role: Sound System Programer and Sound Implementer.
-Engine: Unity 6
-Genré: Horror.
-Team: 4 programmers and 2 Artists
+_**Development: 2025 april - ??? July**_
+</br>
+</br>
+_**My Role:**_ Sound System Programer.
+</br>
+</br>
+_**Engine:**_ Unity 6
+</br>
+</br>
+_**Genré:**_ Horror.
+</br>
+</br>
+_**Team:**_ 4 programmers and 2 Artists
+</br>
+</br>
+</br>
 
-# Persenal Side Projects.
-## Dead Earth
-*Developed: 2025 april - ongoing*
-Engine: Testing both Unity and Unreal befroe committing.
-Genré: Action Horror, Squad RTS, Resourse Managment.
-Team: My self.
+# *Dead Earth* (Personal Side Project)
+### You lead the despreat group of survivors of a penal colony overrun by mosters. Your goal? Get of the planet!
+
+_**Development: 2025 april - ongoing**_
+</br>
+</br>
+_**Engine:**_ Testing both Unity and Unreal before committing.
+</br>
+</br>
+_**Genré:**_ Action Sci-fi Horror, Squad RTS, Resourse Managment.
+</br>
+</br>
+_**Inspirations:**_ The Callisto Protocol, Dead Space series, Aliens Dark Descent.
+</br>
+</br>
+_**Team:**_ One Programmer (My self).
+## My goal With the project:
+- To gain a deaper understanding of how AI works and learn how to make it with diffrent systems. 
+  - Examples: States behavior, Behavior trees, GOAP.
+</br>
+</br>
+</br>
