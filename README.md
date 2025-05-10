@@ -1,5 +1,13 @@
 # Resume: Erik Berglund
 
-## credentials
+## Credentials
 
-## about Me
+## About Me
+
+# School Projects
+
+## S.O.S
+
+## Pogo Pirets
+
+# Persenal Projects
