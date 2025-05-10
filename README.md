@@ -1,17 +1,18 @@
 # Resume: Erik Berglund
-
+## Credentials
+## About Me
 
 # Yrgo School Projects
-
 # S.O.S
+*Developed: 2025 april - ??? July*
+My Role: Sound System Programer and Sound Implementer.
+Engine: Unity 6
+Genré: Horror.
+Team: 4 programmers and 2 Artists
 
-// # Pogo Pirets
-// Genré: Local co-op, Platform Fighter.
-// # ![PogoPirate](https://github.com/user-attachments/assets/59ed5929-65a2-467a-80b2-ba7557f5ddd8)
-
-# Persenal Projects
-
-
-## Credentials
-
-## About Me
+# Persenal Side Projects.
+## Dead Earth
+*Developed: 2025 april - ongoing*
+Engine: Testing both Unity and Unreal befroe committing.
+Genré: Action Horror, Squad RTS, Resourse Managment.
+Team: My self.
