@@ -41,8 +41,9 @@ _**Inspirations:**_ The Callisto Protocol, Dead Space series, Aliens Dark Descen
 </br>
 _**Team:**_ One Programmer (My self).
 ## My goal With the project:
-- To gain a deaper understanding of how AI works and learn how to make it with diffrent systems. 
-  - Examples: States behavior, Behavior trees, GOAP.
+- Gain a deaper understanding of how AI works and learn how to make it with diffrent systems. 
+  - Examples: Simple States Behavior, Behavior trees, GOAP.
+- Learn and make my own 3d assets for Environment, Characters and Items.
 </br>
 </br>
 </br>
