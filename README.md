@@ -42,6 +42,6 @@ _**Team:**_ My self.
 ## My goal With the project:
 - Gain a deaper understanding of how AI works and learn how to make it with diffrent systems. 
   - Examples: Simple States, Behavior, Behavior trees, GOAP.
-- Make a System that lets me quickly pieces together rooms.
+- Make a System/Factory that lets me quickly pieces together rooms.
 - Deepen my understanding of how Music, Sound and Ambience can be used to effect the feeling of a game.
 - Make my own 3d assets for Environment, Characters, Items, Animations.
