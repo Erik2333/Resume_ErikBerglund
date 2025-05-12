@@ -1,11 +1,10 @@
-# Resume: Erik Berglund
-## About Me
+# Resume: Erik Berglund (Work In Progress)
 </br>
 </br>
 </br>
 
 # <ins>Yrgo Game Projects</ins>
-## S.O.S
+# S.O.S
 _**Development: 2025 april - ??? July**_
 </br>
 </br>
@@ -25,25 +24,24 @@ _**Team:**_ 4 programmers and 2 Artists
 
 # <ins>Personal Project</ins>
 ## *Dead Earth*
-### You lead the despreat group of survivors of a penal colony overrun by mosters. Your goal? Get of the planet!
+### You lead the despreat group of survivors of a penal colony overrun by mosters. Your Goal? Get of the planet!
 
 _**Development: 2025 april - ongoing**_
 </br>
 </br>
-_**Engine:**_ Testing both Unity and Unreal before committing.
+_**Engine:**_ Unity 6 or Unreal. Currently learning to make RTS in both.
 </br>
 </br>
-_**Genré:**_ Action Sci-fi Horror, Squad RTS, Resourse Managment.
+_**Genré:**_ Sci-fi Action Horror, Squad RTS, Resourse Managment.
 </br>
 </br>
-_**Inspirations:**_ The Callisto Protocol, Dead Space series, Aliens Dark Descent.
+_**Inspirations:**_ The Callisto Protocol, Dead Space, Aliens Dark Descent.
 </br>
 </br>
-_**Team:**_ One Programmer (My self).
+_**Team:**_ My self.
 ## My goal With the project:
 - Gain a deaper understanding of how AI works and learn how to make it with diffrent systems. 
-  - Examples: Simple States Behavior, Behavior trees, GOAP.
-- Learn and make my own 3d assets for Environment, Characters and Items.
-</br>
-</br>
-</br>
+  - Examples: Simple States, Behavior, Behavior trees, GOAP.
+- Make a System that lets me quickly pieces together rooms.
+- Deepen my understanding of how Music, Sound and Ambience can be used to effect the feeling of a game.
+- Make my own 3d assets for Environment, Characters, Items, Animations.
