@@ -22,11 +22,11 @@
     <p> <em> Inspirations: The Callisto Protocol, Dead Space, Aliens Dark Descent. </em> </p>
     <p> <em> Team: My self. </em> </p>
   <h2> My goal With the project: </h2>
-    <p> <em> Gain a deaper understanding of how AI works and learn how to make it with diffrent systems.  </em> </p>
-    <p> <em> Examples: Simple States, Behavior, Behavior trees, GOAP.  </em> </p>
-    <p> <em> Make a System/Factory that lets me quickly pieces together rooms.  </em> </p>
-    <p> <em> Deepen my understanding of how Music, Sound and Ambience can be used to effect the feeling of a game.  </em> </p>
-    <p> <em> Make my own 3d assets for Environment, Characters, Items, Animations.  </em> </p>
+    <p> <em> - Gain a deaper understanding of how AI works and learn how to make it with diffrent systems.  </em> </p>
+    <p> <em> - Examples: Simple States, Behavior, Behavior trees, GOAP.  </em> </p>
+    <p> <em> - Make a System/Factory that lets me quickly pieces together rooms.  </em> </p>
+    <p> <em> - Deepen my understanding of how Music, Sound and Ambience can be used to effect the feeling of a game.  </em> </p>
+    <p> <em> - Make my own 3d assets for Environment, Characters, Items, Animations.  </em> </p>
 
 <p> <em> This is a example of a dropdown  </em> </p>
 
