@@ -21,7 +21,7 @@
     <p> <em> Genré: Sci-fi Action Horror, Squad RTS, Resourse Managment. </em> </p>
     <p> <em> Inspirations: The Callisto Protocol, Dead Space, Aliens Dark Descent. </em> </p>
     <p> <em> Team: My self. </em> </p>
-  <h2> My goal With the project:
+  <h2> My goal With the project: </h2>
     <p> <em> Gain a deaper understanding of how AI works and learn how to make it with diffrent systems.  </em> </p>
     <p> <em> Examples: Simple States, Behavior, Behavior trees, GOAP.  </em> </p>
     <p> <em> Make a System/Factory that lets me quickly pieces together rooms.  </em> </p>
