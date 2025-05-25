@@ -12,39 +12,52 @@
 <br>
 
 <h1> Personal Project </h1>
-  <h2> Pay to Win. </h2>
-    <p> A Multiplayer shotter that is a parody of the pay to win trend that happening in the game industry and manitulative tactics it uses to keep people playing. </p>
-    <p> <em> Development: 2025 april - paused. </em> </p>
-    <p> <em> Engine: Unreal </em> </p>
-    <p> <em> Genré: Action shotter, PvP multiplayer. </em> </p>
-    <p> <em> Inspirations: EA CEO John Riccitiello. </em> </p>
-    <p> <em> “You are 6 horses in playing Battlefield and you run out of ammo in your clip. And we ask you for a dollar to reload, you really not price sensitive at the time.” </em> </p>
 
+<h2> Pay to Win. </h2>
+    <p> A Multiplayer shooter that is a parody of the pay to win trend that happening in the game industry and manipulative tactics it uses to keep people playing. </p>
+    <p> Development: 2025 april - paused. </p>
+    <p> Engine: Unreal </p>
+    <p> Genré: Action shotter, PvP multiplayer. </p>
+    <p> Inspirations: EA CEO John Riccitiello. </p>
+    <p> “You are 6 horses in playing Battlefield and you run out of ammo in your clip. And we ask you for a dollar to reload, you really not price sensitive at the time.”
+    
+  <details>
+    <summary> <h3> Goal With this project. </h3> </summary>
+    <p> <em> - Gain a deaper understanding of how Unreals multiplayer system works. </em> </p>
+    <p> <em> - Deepen my understanding of C++ and make as much of the project in C++ as possible. </em> </p>
+    <br>
+  </details>
 
-<br>
-<br>
-
-  <h2> Dead Earth </h2>
+<h2> Dead Earth </h2>
     <p> You lead the despreat group of survivors of a penal colony overrun by mosters. Your Goal? Get of the planet! </p>
     <p> <em> Development: 2025 april - paused. </em> </p>
     <p> <em> Engine: Unity 6 or Unreal. Currently learning to make RTS in both. </em> </p>
     <p> <em> Genré: Sci-fi Action Horror, Squad RTS, Resourse Managment. </em> </p>
     <p> <em> Inspirations: The Callisto Protocol, Dead Space, Aliens Dark Descent. </em> </p>
+    
+  <details>
+    <summary> <h3> My Goal With this project. </h3> </summary>
+        <p> <em> - Gain a deaper understanding of how AI works and learn how to make it with diffrent systems. </em> </p>
+        <p> <em> - Examples: Simple States, Behavior, Behavior trees, GOAP. </em> </p>
+        <p> <em> - Make a System/Factory that lets me quickly pieces together rooms. </em> </p>
+        <p> <em> - Deepen my understanding of how Music, Sound and Ambience can be used to effect the feeling of a game. </em> </p>
+        <p> <em> - Make my own 3d assets for Environment, Characters, Items, Animations. </em> </p>
+    <br>
+  </details>
+    
 <br>
 <br>
 <p> <em> This is a example of a dropdown  </em> </p>
 
 <details>
-
 <summary></summary>
-
-<pre>$
-
-
-Test
+  <pre>
 
 
-    <br></pre>
+  Test
+
+
+  <br></pre>
 </details>
 
 <body>
