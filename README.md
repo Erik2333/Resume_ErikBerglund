@@ -3,7 +3,7 @@
 <br>
 <h1> Yrgo Game Projects </h1>
   <h2> S.O.S </h2>
-    <p> <em> Development: 2025 april - ??? July. </em> </p>
+    <p> <em> Development: 2025 april - 2025 July. </em> </p>
     <p> <em> My Role: Programming a Sound System and made the main menu. </em> </p>
     <p> <em> Engine: Unity 6 </em> </p>
     <p> <em> Genré: Horror. </em> </p>
@@ -14,7 +14,7 @@
 <h1> Personal Project </h1>
 
 <h2> Pay to Win. </h2>
-    <p> A Multiplayer shooter that is a parody of the pay to win trend that happening in the game industry and manipulative tactics it uses to keep people playing. </p>
+    <p> A Multiplayer shooter that is a parody of the trend that happening in the game industry and manipulative tactics it uses to keep people playing. </p>
     <p> Development: 2025 april - paused. </p>
     <p> Engine: Unreal </p>
     <p> Genré: Action shotter, PvP multiplayer. </p>
