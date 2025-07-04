@@ -19,7 +19,7 @@
     <p> Engine: Unreal </p>
     <p> Genré: Action shotter, PvP multiplayer. </p>
     <p> Inspirations: EA CEO John Riccitiello. </p>
-    <p> “You are 6 horses in playing Battlefield and you run out of ammo in your clip. And we ask you for a dollar to reload, you really not price sensitive at the time.”
+    <p> “You are 6 hours in playing Battlefield and you run out of ammo in your clip. And we ask you for a dollar to reload, you really not price sensitive at the time.”
     
   <details>
     <summary> <h3> Goal With this project. </h3> </summary>
