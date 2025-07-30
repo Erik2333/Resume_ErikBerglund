@@ -11,6 +11,15 @@
 <br>
 <br>
 
+# Pogo Pirets
+*Developed: 2022 Nov - 2023 Jan*
+Engine: Unity
+Genré: Couch CO-OP, Platform Fighter.
+Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner.
+# ![PogoPirate](https://github.com/user-attachments/assets/59ed5929-65a2-467a-80b2-ba7557f5ddd8)
+<br>
+<br>
+
 <h1> Personal Project </h1>
 
 <h2> Pay to Win. </h2>
