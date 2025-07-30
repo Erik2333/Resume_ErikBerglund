@@ -26,7 +26,7 @@
   <br>
   <br>
   
-  <h1> Personal Project </h1>
+  <h1> Planed Personal Project </h1>
   
   <h2> Dead Earth </h2>
       <p> You lead the despreat group of survivors of a penal colony overrun by mosters. Your Goal? Get of the planet! </p>
