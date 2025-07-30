@@ -20,7 +20,7 @@
   
   <h2> Developed: 2022 Nov - 2023 Jan </h2>
     <p> <em> Engine: Unity </em></p>
-    <p> <em> Genré: Couch CO-OP, Platform Fighter. </em> </p>
+    <p> <em> Genré: Couch CO-OP, Action Platform Fighter. </em> </p>
     <p> <em> Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner. </em> </p>
       
   <br>
