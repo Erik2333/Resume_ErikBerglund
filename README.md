@@ -34,7 +34,7 @@
       <p> <em> Inspirations: The Callisto Protocol, Dead Space, Aliens Dark Descent. </em> </p>
       
   <details>
-    <summary> <h3> My Goal With this project. </h3> </summary>
+    <summary> <h3> Goal With this project. </h3> </summary>
         <p> <em> - Gain a deaper understanding of how AI works and learn how to make it with diffrent systems. </em> </p>
         <p> <em> - Make a System that lets me quickly pieces together rooms. </em> </p>
         <p> <em> - Deepen my understanding of how Music, Sound and Ambience can be used to effect on tone and feeling of a game. </em> </p>
