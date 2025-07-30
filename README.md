@@ -15,12 +15,14 @@
   <br>
   <br>
   
-  <h1> Pogo Pirets</h1>
-    <h2> Developed: 2022 Nov - 2023 Jan </h2>
-      <p> <em> Engine: Unity </em></p>
-      <p> <em> Genré: Couch CO-OP, Platform Fighter. </em> </p>
-      <p> <em> Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner. </em> </p>
-  # ![PogoPirate](https://github.com/user-attachments/assets/59ed5929-65a2-467a-80b2-ba7557f5ddd8)
+  <h1> Pogo Pirates</h1>
+  <a href="https://yrgo-game-creator.itch.io/pogopirates"><img src="https://github.com/user-attachments/assets/59ed5929-65a2-467a-80b2-ba7557f5ddd8"></a>
+  
+  <h2> Developed: 2022 Nov - 2023 Jan </h2>
+    <p> <em> Engine: Unity </em></p>
+    <p> <em> Genré: Couch CO-OP, Platform Fighter. </em> </p>
+    <p> <em> Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner. </em> </p>
+      
   <br>
   <br>
   
