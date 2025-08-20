@@ -5,23 +5,25 @@
   <h1>Resume: Erik Berglund (Work In Progress)</h1>
   <br>
   <br>
+  
   <h1> Yrgo Game Projects </h1>
-    <h2> S.O.S </h2>
-      <p> <em> Development: 2025 april - 2025 July. </em> </p>
-      <p> <em> My Role: Programming a Sound System and made the main menu. </em> </p>
-      <p> <em> Engine: Unity 6 </em> </p>
-      <p> <em> Genré: Horror. </em> </p>
-      <p> <em> Team: 4 programmers and 2 Artists. </em> </p>
+    <h2> Signal In Progress </h2>
+    <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch </p> </a>
+    <p> <em> Development: 2025 april - 2025 July. </em> </p>
+    <p> <em> My Role: Programming Sound System, Main Menu UI and user Settings. </em> </p>
+    <p> <em> Engine: Unity 6 </em> </p>
+    <p> <em> Genré: 3D Horror. </em> </p>
+    <p> <em> Team: 4 programmers and 2 Artists. </em> </p>
   <br>
   <br>
   
   <h1> Pogo Pirates</h1>
   <a href="https://yrgo-game-creator.itch.io/pogopirates"><img src="https://github.com/user-attachments/assets/59ed5929-65a2-467a-80b2-ba7557f5ddd8"></a>
   
-  <h2> Developed: 2022 Nov - 2023 Jan </h2>
-    <p> <em> Engine: Unity </em></p>
-    <p> <em> Genré: Couch CO-OP, Action Platform Fighter. </em> </p>
-    <p> <em> Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner. </em> </p>
+  <p> Developed: 2022 Nov - 2023 Jan </p>
+  <p> <em> Engine: Unity </em></p>
+  <p> <em> Genré: Couch CO-OP, Action Platform Fighter. </em> </p>
+  <p> <em> Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner. </em> </p>
       
   <br>
   <br>
