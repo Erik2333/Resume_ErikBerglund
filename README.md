@@ -20,7 +20,7 @@
   <br>
   
   <h2> Pogo Pirates</h1>
-    <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
+    <a href="https://yrgo-game-creator.itch.io/pogopirates"><img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" /> </a>
     <a href="https://yrgo-game-creator.itch.io/pogopirates"> <p> Itch Link </p> </a>
     <p> Developed: 2022 Nov - 2023 Jan </p>
     <!-- <p> My Role: Sound and Level design </p> -->
