@@ -4,7 +4,7 @@
   <br>
 
   <h1> Game Developed at Yrgo </h1>
-    <h1> VR </h2>
+    <h1> VR project: ??? </h2>
     <!--
     <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
       <img width="1188" height="676" alt="Signal In Progress" src="https://github.com/user-attachments/assets/123d3460-c59c-4656-9810-f91403698d39" />
@@ -20,7 +20,7 @@
   <br>
   <br>
   
-  <h1> Signal In Progress </h2>
+  <h1> 3D project: Signal In Progress </h2>
     <!-- " alt="this slowpoke moves"  width="250" alt="404 image"/> -->
     <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
       <img width="1188" height="676" alt="Signal In Progress" src="https://github.com/user-attachments/assets/123d3460-c59c-4656-9810-f91403698d39" />
@@ -35,7 +35,7 @@
   <br>
   <br>
   
-  <h1> Pogo Pirates</h1>
+  <h1> 2D project: Pogo Pirates</h1>
     <a href="https://yrgo-game-creator.itch.io/pogopirates"><img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" /> </a>
     <a href="https://yrgo-game-creator.itch.io/pogopirates"> <p> Itch Link </p> </a>
     <p> Developed: 2022 Nov - 2023 Jan </p>
