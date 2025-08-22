@@ -12,7 +12,7 @@
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     <p> Development: 2025 april - 2025 July. </p>
     <!-- <p> My Role: Programming Sound System, Main Menu UI and user Settings. </p> -->
-    <p> Engine: Unity 6 </p>!
+    <p> Engine: Unity 6 </p>
     <p> Genré: 3D Horror. </p>
     <p> Team: 4 programmers and 2 Artists. </em> </p>
     
