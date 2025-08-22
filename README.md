@@ -38,7 +38,7 @@
   <h1> Planed Personal Project </h1>
   
   <h2> Dead Earth </h2>
-      <p> You lead the despreat group of survivors of a penal colony overrun by mosters. Your Goal? Get of the planet! </p>
+      <p> <em> You lead the despreat group of survivors of a penal colony overrun by mosters. Your Goal? Get of the planet! </em> </p>
       <p> Development: Prepruduction (2025 april - paused) </p>
       <p> Engine: Unreal Engine 5 </p>
       <p> Genré: Sci-fi Action Horror, Squad RTS. </p>
