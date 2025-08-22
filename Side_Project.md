@@ -1,6 +1,8 @@
 <body>
   <h1> Personal Project </h1>
-  
+      <p>
+        These are project that i have planned out for my personal growth as a game dev. <br>
+      </p>
   <h2> Dead Earth </h2>
       <p> <em>
         You lead the despreat group of survivors of a penal mining colony overrun by mosters and rogue inmates. <br>
