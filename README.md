@@ -61,7 +61,6 @@
         </em>
   </details>
   <br>
-  <br>
     
   <h2> From Rust To Dust. </h2>
       <p> Development: R&D </p>
@@ -69,6 +68,7 @@
       <p> Theme: Post Apocalyptic Wild West </p>
       <p> Genré: 3d Person Shotter with Vehical Combat. </p>
       <p> Inspirations: Laika aged through blood, Red Dead Redempion, Mad Max. </p>
+    <br>
       
   <details>
     <summary> Goal With this project. </summary>
@@ -80,19 +80,21 @@
       </em>
   </details>
   <br>
+  
   <h2> World Of Dispair. </h2>
       <p> Development: R&D </p>
       <p> Engine: Unreal Engine 5 </p>
       <p> Theme: Dark Medival Fantasy </p>
       <p> Genré: Action Advebture, 3d Person Hack and Slach. </p>
       <p> Inspirations: Gothic Horror and European Folk Lore </p>
+    <br>
       
   <details>
     <summary> Goal With this project. </summary>
       <p> </p>
       <p> <em> Make a Epic Game </em> &#128513; </p>
-    <br>
   </details>
+  <br>
 
   <!--
       
