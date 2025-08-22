@@ -13,9 +13,9 @@
     -->
     <p> Development: 2026 ??? - 2026 ???. </p>
     <!-- <p> My Role: . </p> -->
-    <p> Engine: Unity 6 </p>
-    <p> Genré: 3D Horror. </p>
-    <p> Team: 4 programmers and 2 Artists. </em> </p>
+    <p> Engine: ??? </p>
+    <p> Genré: ???. </p>
+    <p> Team: ? programmers and ? Artists. </em> </p>
     
   <br>
   <br>
