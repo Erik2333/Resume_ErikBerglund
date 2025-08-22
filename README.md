@@ -39,7 +39,7 @@
   
   <h2> Dead Earth </h2>
       <p> <em> You lead the despreat group of survivors of a penal colony overrun by mosters. Your Goal? Get of the planet! </em> </p>
-      <p> Development: Prepruduction (2025 april - paused) </p>
+      <p> Development: Prepruduction </p>
       <p> Engine: Unreal Engine 5 </p>
       <p> Genré: Sci-fi Action Horror, Squad RTS. </p>
       <p> Inspirations: Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
