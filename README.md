@@ -8,7 +8,7 @@
   
   <h1> Game Developed at Yrgo </h1>
     <h2> Signal In Progress </h2>
-    <img src="https://github.com/user-attachments/assets/59ed5929-65a2-467a-80b2-ba7557f5ddd8">
+    <img src="https://github.com/user-attachments/assets/59ed5929-65a2-467a-80b2-ba7557f5ddd8" alt="this slowpoke moves"  width="250" alt="404 image"/>
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     <p> Development: 2025 april - 2025 July. </p>
     <!-- <p> My Role: Programming Sound System, Main Menu UI and user Settings. </p> -->
