@@ -50,7 +50,7 @@
   <h2> World Of Dispair. </h2>
       <p> Development: R&D </p>
       <p> Engine: Unreal Engine 5 </p>
-      <p> Theme: Dark Medival Fantasy </p>
+      <p> Theme: Dark Gothic Medival Fantasy </p>
       <p> Genré: Action Advebture, 3d Person Hack and Slach. </p>
       <p> Inspirations: Gothic Horror and European Folk Lore </p>
     <br>
