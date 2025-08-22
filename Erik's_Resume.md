@@ -2,9 +2,25 @@
   <h1 >Resume: Erik Berglund (Work In Progress)</h1>
   <br>
   <br>
-  
+
   <h1> Game Developed at Yrgo </h1>
-    <h1> Signal In Progress </h2>
+    <h1> VR </h2>
+    <!--
+    <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
+      <img width="1188" height="676" alt="Signal In Progress" src="https://github.com/user-attachments/assets/123d3460-c59c-4656-9810-f91403698d39" />
+    </a>
+    <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
+    -->
+    <p> Development: 2026 ??? - 2026 ???. </p>
+    <!-- <p> My Role: . </p> -->
+    <p> Engine: Unity 6 </p>
+    <p> Genré: 3D Horror. </p>
+    <p> Team: 4 programmers and 2 Artists. </em> </p>
+    
+  <br>
+  <br>
+  
+  <h1> Signal In Progress </h2>
     <!-- " alt="this slowpoke moves"  width="250" alt="404 image"/> -->
     <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
       <img width="1188" height="676" alt="Signal In Progress" src="https://github.com/user-attachments/assets/123d3460-c59c-4656-9810-f91403698d39" />
