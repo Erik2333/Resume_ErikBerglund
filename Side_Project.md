@@ -31,7 +31,7 @@
   <h2> From Rust To Dust. </h2>
       <p> Development: R&D </p>
       <p> Engine: Unreal Engine 5 </p>
-      <p> Theme: Post Apocalyptic Wild West </p>
+      <p> Theme: Post Apocalyptic Wild Western </p>
       <p> Genré: 3d Person Shotter with Vehical Combat. </p>
       <p> Inspirations: Laika aged through blood, Red Dead Redempion, Mad Max. </p>
     <br>
