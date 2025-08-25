@@ -54,7 +54,7 @@ public class AudioManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Method that spawns in a audio_Prefab and Play clip from audioDictionary.
+    /// Method that spawns in a audio_Prefab and Get a clip from audioDictionary.
     /// Example: PlayClip(transform.position, "Monster_Howl");
     /// </summary>
     /// <param name="spawnPosition"></param>
