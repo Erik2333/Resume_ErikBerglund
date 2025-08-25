@@ -77,12 +77,8 @@
       
   <br>
   <br>
-  <p> <em> This is a example of a dropdown for code </em> </p>
   
-  <details>
-    <summary></summary>
-    <pre>  Code/Audio Manager.cs  <br></pre>
-  </details>
+
 <body/>
 <!--
 style='font-size:300px;'
