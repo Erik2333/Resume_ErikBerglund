@@ -7,8 +7,8 @@
       <p> <em>
         AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it. </em> <br><br>
         Term A.I. have two meanings: <br>
-          - Artificial Intelligence: The most common term for what people think of when we say AI. Machine Learning is a perfect exampel since program "Learns" how to perform a task better and better with each iteration. <br>
-          - Algorithmic Intelligence: When you do a closer look at video game A.I. this more correct term for what we see in video games since Artificial Intelligence is in most cases is overkill for what it needs to done in video games and also requires a loot of procesing power to preform well. <br>
+        - Artificial Intelligence: The most common term for what people think of when we say AI. Machine Learning is a perfect exampel since program "Learns" how to perform a task better and better with each iteration. <br>
+        - Algorithmic Intelligence: When you do a closer look at video game A.I. this more correct term for what we see in video games since Artificial Intelligence is in most cases is overkill for what it needs to done in video games and also requires a loot of procesing power to preform well. <br>
          <br>
         My goal with my Thesis is to explain the diffrences between the two and why it's matters when talking about video game AI. <br>
       </p>
