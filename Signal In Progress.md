@@ -4,22 +4,22 @@
 <summary><em> This is a example of a dropdown for code </em></summary>
   
 ```csharp
-    public class AudioManager : MonoBehaviour
+public class AudioManager : MonoBehaviour
+{
+    public enum AudioType
     {
-        public enum AudioType
-        {
-            Audio2D,
-            AudioMaster,
-            AudioMusic,
-            AudioSFX,
-            AudioAmbience
-        }
-        public static AudioManager Instance { get; private set; }
-        private readonly Queue<AudioSource> audioPool = new();
-        private byte poolLimit = 20;
-        public AudioSource audio2D_Prefab, audio3D_Master, audio3D_Music, audio3D_SFX, audio3D_Ambience;
-        public AudioClip errorClip;
-    
+        Audio2D,
+        AudioMaster,
+        AudioMusic,
+        AudioSFX,
+        AudioAmbience
+    }
+    public static AudioManager Instance { get; private set; }
+    private readonly Queue<AudioSource> audioPool = new();
+    private byte poolLimit = 20;
+    public AudioSource audio2D_Prefab, audio3D_Master, audio3D_Music, audio3D_SFX, audio3D_Ambience;
+    public AudioClip errorClip;
+
     // Custom class to set Key and Value in Inspector.
     public AudioDictionary audioDictionary;
 
@@ -85,7 +85,6 @@
     {
         AudioClip clip = GetAudioClip(audioDictionaryKey);
         AudioSource audioSource = GetFormPool(GetPrefab(audioSourcePrefab), spawnPosition, false, clip.length);
-        
         audioSource.clip = clip;
         audioSource.volume = volume;
         audioSource.pitch = pitch;
@@ -182,35 +181,37 @@
 
         return audioClips;
     }
-    }
-    
-    [Serializable]
-    public class AudioDictionary
+}
+
+[Serializable]
+public class AudioDictionary
+{
+    [SerializeField]
+    DictionaryItem[] dictionary;
+
+    public Dictionary<string, AudioClip> ToDictionary()
     {
-        [SerializeField]
-        DictionaryItem[] dictionary;
-    
-        public Dictionary<string, AudioClip> ToDictionary()
+        Dictionary<string, AudioClip> newDict = new();
+
+        foreach (DictionaryItem item in dictionary)
         {
-            Dictionary<string, AudioClip> newDict = new();
-    
-            foreach (DictionaryItem item in dictionary)
-            {
-                newDict.Add(item.key.ToLower(), item.audioClip);
-            }
-    
-            return newDict;
+            newDict.Add(item.key.ToLower(), item.audioClip);
         }
+
+        return newDict;
     }
-    
-    [Serializable]
-    public class DictionaryItem
-    {
-        [SerializeField]
-        public string key;
-    
-        [SerializeField]
-        public AudioClip audioClip;
-    }
-    ```
+}
+
+[Serializable]
+public class DictionaryItem
+{
+    [SerializeField]
+    public string key;
+
+    [SerializeField]
+    public AudioClip audioClip;
+}
+
+```
+
 </details>
