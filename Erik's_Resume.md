@@ -15,7 +15,7 @@
     <!-- <p> My Role: . </p> -->
     <p> Engine: Unity 6 </p>
     <p> Genré: ???. </p>
-    <p> Team: ? programmers and ? Artists. </em> </p>
+    <p> Team: 4 programmers. </em> </p>
     
   <br>
   <br>
