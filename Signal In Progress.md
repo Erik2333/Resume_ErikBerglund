@@ -157,31 +157,6 @@ public class AudioManager : MonoBehaviour
         else
             Destroy(audioSource);
     }
-    
-    /// <summary>
-    /// A way to get Audio Clips form the Audio Managers Dictionary.
-    /// Note: It will Get all audio clips with that contains Dictionary Key.
-    /// Example: List<AudioClip> audioClips = GetAudioClip("Monster_Attack");
-    /// </summary>
-    /// <param name="audioDictionaryKey"></param>
-    /// <returns></returns>
-    public List<AudioClip> GetSeveralAudioClip(string audioDictionaryKey)
-    {
-        Dictionary<string, AudioClip> tempDictionary = audioDictionary.ToDictionary();
-        List<string> keyList = new(audioDictionary.ToDictionary().Keys);
-        List<AudioClip> audioClips = new();
-
-        foreach (string key in keyList)
-        {
-            if (key.ToLower().Contains(audioDictionaryKey.ToLower()))
-            {
-                tempDictionary.TryGetValue(key, out AudioClip audioClip);
-                audioClips.Add(audioClip);
-            }
-        }
-
-        return audioClips;
-    }
 }
 
 [Serializable]
