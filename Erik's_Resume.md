@@ -23,7 +23,7 @@
   <h1> 3D project: Signal In Progress </h2>
     <!-- " alt="this slowpoke moves"  width="250" alt="404 image"/> -->
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
-    <p> Development: 2025 april - 2025 July. </p>
+    <p> Development: 2025 april - 2025 July. (8 weeks) </p>
     <!-- <p> My Role: Programming Sound System, Main Menu UI and user Settings. </p> -->
     <p> Engine: Unity 6 </p>
     <p> Genré: 3D Horror. </p>
@@ -37,7 +37,7 @@
   
   <h1> 2D project: Pogo Pirates</h1>
     <a href="https://yrgo-game-creator.itch.io/pogopirates"> <p> Itch Link </p> </a>
-    <p> Developed: 2022 Nov - 2023 Jan </p>
+    <p> Developed: 2022 Nov - 2023 Jan (7 weeks) </p>
     <!-- <p> My Role: Sound and Level design </p> -->
     <p> Engine: Unity </p>
     <p> Genré: Couch CO-OP, PvP Arena Fighter. </p>
