@@ -29,7 +29,7 @@
     <p> Genré: 3D Horror. </p>
     <p> Team: 4 programmers and 2 Artists. </em> </p>
     <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
-      <img width="1188" height="676" alt="Signal In Progress" src="https://github.com/user-attachments/assets/123d3460-c59c-4656-9810-f91403698d39" />
+      <img width="1188" height="676" alt="Signal In Progress" src="Images/Signal in progress(In game menu).png" />
     </a>
     
   <br>
