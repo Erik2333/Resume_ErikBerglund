@@ -3,6 +3,18 @@
       <p>
         These are project that i have planned out for my personal growth as a game dev. <br>
       </p>
+  <h2> Thesis: AI In Video Games </h2>
+      <p> <em>
+        AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it. <br>
+        For me the term A.I. have to meanings. Artificial Intelligence is the most common term for what people think of when we say AI. <br>
+        However, when you do a closer look the more correct term is Algorithmic Intelligence.
+      </em> </p>
+      <p> Development: Prepruduction </p>
+      <p> Engine: Unreal Engine 5 </p>
+      <p> Genré: Sci-fi Action Horror, Squad RTS. </p>
+      <p> Inspirations: Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
+    <br>
+  
   <h2> Tainted Earth </h2>
       <p> <em>
         You lead the despreat group of survivors of a penal mining colony overrun by mosters and rogue inmates. <br>
