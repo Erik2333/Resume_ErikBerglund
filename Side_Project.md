@@ -3,7 +3,7 @@
       <p>
         These are project that i have planned out for my personal growth as a game dev. <br>
       </p>
-  <h2> Thesis: AI In Video Games </h2>
+  <h2> School Thesis: AI In Video Games </h2>
       <p> <em>
         AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it. </em> <br><br>
         Term A.I. have two meanings: <br>
