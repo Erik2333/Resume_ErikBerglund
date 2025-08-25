@@ -1,1 +1,215 @@
+  <details>
+    <summary><em> This is a example of a dropdown for code </em></summary>
+    <pre>  
+```c#
+public class AudioManager : MonoBehaviour
+{
+    public enum AudioType
+    {
+        Audio2D,
+        AudioMaster,
+        AudioMusic,
+        AudioSFX,
+        AudioAmbience
+    }
+    public static AudioManager Instance { get; private set; }
+    private readonly Queue<AudioSource> audioPool = new();
+    private byte poolLimit = 20;
+    public AudioSource audio2D_Prefab, audio3D_Master, audio3D_Music, audio3D_SFX, audio3D_Ambience;
+    public AudioClip errorClip;
+    
+    // Custom class to set Key and Value in Inspector.
+    public AudioDictionary audioDictionary;
 
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    /// <summary>
+    /// Quick way to get Audio Clips form the Audio Managers Dictionary.
+    /// Example: AudioClip audioClip = GetAudioClip("Monster_Attack");
+    /// </summary>
+    /// <param name="audioDictionaryKey"></param>
+    /// <returns></returns>
+    public AudioClip GetAudioClip(string audioDictionaryKey)
+    {
+        audioDictionary.ToDictionary().TryGetValue(audioDictionaryKey.ToLower(), out AudioClip audioClip);
+
+        if (audioClip != null)
+        {
+            return audioClip;
+        }
+        else
+        {
+            Debug.LogError($"No clip found with Key: {audioDictionaryKey}. Did you misspell or forget to add it in Audio Manager?");
+            return errorClip;
+        }
+    }
+
+    private AudioSource GetPrefab(AudioType audioSourcePrefab)
+    {
+        switch (audioSourcePrefab)
+        {
+            case AudioType.Audio2D: return audio2D_Prefab;
+            case AudioType.AudioMaster: return audio3D_Master;
+            case AudioType.AudioMusic: return audio3D_Music;
+            case AudioType.AudioSFX: return audio3D_SFX;
+            case AudioType.AudioAmbience: return audio3D_Ambience;
+            default:
+                Debug.LogError($"audioSourcePrefab not found. Default to {audio3D_Master}");
+                return audio3D_Master;
+        }
+    }
+
+    /// <summary>
+    /// Method that spawns in a audio_Prefab and Play clip from audioDictionary.
+    /// Example: PlayClip(transform.position, "Monster_Howl");
+    /// </summary>
+    /// <param name="spawnPosition"></param>
+    /// <param name="audioDictionaryKey"></param>
+    /// <param name="oneShot"></param>
+    /// <param name="volume"></param>
+    /// <param name="pitch"></param>
+    /// <returns></returns>
+    public void PlayClip(Vector3 spawnPosition, string audioDictionaryKey, AudioType audioSourcePrefab, float volume = 1, float pitch = 1)
+    {
+        AudioClip clip = GetAudioClip(audioDictionaryKey);
+        AudioSource audioSource = GetFormPool(GetPrefab(audioSourcePrefab), spawnPosition, false, clip.length);
+        
+        audioSource.clip = clip;
+        audioSource.volume = volume;
+        audioSource.pitch = pitch;
+        audioSource.Play();
+    }
+
+    /// <summary>
+    /// Method that spawns in a audio_Prefab and also returns it so you can access it for modification.
+    /// Example: AudioSource audioSource = PlayClip(transform.position, "Monster_Attack", "3d");
+    /// </summary>
+    /// <param name="spawnPosition"></param>
+    /// <param name="audioDictionaryKey"></param>
+    /// <param name="oneShot"></param>
+    /// <param name="volume"></param>
+    /// <param name="pitch"></param>
+    /// <returns></returns>
+    public AudioSource PlayAudioClip(Vector3 spawnPosition, string audioDictionaryKey, AudioType audioSourcePrefab, bool oneShot = true, float volume = 1, float pitch = 1)
+    {
+        AudioClip clip = GetAudioClip(audioDictionaryKey);
+        AudioSource audioSource = GetFormPool(GetPrefab(audioSourcePrefab), spawnPosition, oneShot, clip.length);
+        audioSource.clip = clip;
+        audioSource.volume = volume;
+        audioSource.pitch = pitch;
+        audioSource.Play();
+
+        return audioSource;
+    }
+
+    AudioSource GetFormPool(AudioSource audioSource, Vector3 spawnPosition, bool oneShot, float clipLength)
+    {
+        AudioSource poolObj = audioPool.Peek();
+
+        if (poolObj != null)
+        {
+            audioPool.Dequeue();
+            poolObj = audioSource;
+            poolObj.transform.SetParent(null);
+            poolObj.transform.position = spawnPosition;
+            poolObj.gameObject.SetActive(true);
+        }
+        else
+        {
+            poolObj = Instantiate(audioSource, spawnPosition, Quaternion.identity);
+        }
+
+        if (oneShot == true)
+            StartCoroutine(returnToPool(poolObj, clipLength));
+
+        return poolObj;
+        
+    }
+
+    IEnumerator returnToPool(AudioSource audioSource, float time)
+    {
+        yield return new WaitForSeconds(time);
+
+        returnToPool(audioSource);
+    }
+
+    public void returnToPool(AudioSource audioSource)
+    {
+        if (audioPool.Count < poolLimit)
+        {
+            audioSource.Stop();
+            audioSource.gameObject.SetActive(false);
+            audioSource.transform.SetParent(gameObject.transform, false);
+            audioPool.Enqueue(audioSource);
+        }
+        else
+            Destroy(audioSource);
+    }
+    
+    /// <summary>
+    /// A way to get Audio Clips form the Audio Managers Dictionary.
+    /// Note: It will Get all audio clips with that contains Dictionary Key.
+    /// Example: List<AudioClip> audioClips = GetAudioClip("Monster_Attack");
+    /// </summary>
+    /// <param name="audioDictionaryKey"></param>
+    /// <returns></returns>
+    public List<AudioClip> GetSeveralAudioClip(string audioDictionaryKey)
+    {
+        Dictionary<string, AudioClip> tempDictionary = audioDictionary.ToDictionary();
+        List<string> keyList = new(audioDictionary.ToDictionary().Keys);
+        List<AudioClip> audioClips = new();
+
+        foreach (string key in keyList)
+        {
+            if (key.ToLower().Contains(audioDictionaryKey.ToLower()))
+            {
+                tempDictionary.TryGetValue(key, out AudioClip audioClip);
+                audioClips.Add(audioClip);
+            }
+        }
+
+        return audioClips;
+    }
+}
+
+[Serializable]
+public class AudioDictionary
+{
+    [SerializeField]
+    DictionaryItem[] dictionary;
+
+    public Dictionary<string, AudioClip> ToDictionary()
+    {
+        Dictionary<string, AudioClip> newDict = new();
+
+        foreach (DictionaryItem item in dictionary)
+        {
+            newDict.Add(item.key.ToLower(), item.audioClip);
+        }
+
+        return newDict;
+    }
+}
+
+[Serializable]
+public class DictionaryItem
+{
+    [SerializeField]
+    public string key;
+
+    [SerializeField]
+    public AudioClip audioClip;
+}
+```    
+    </pre>
+  </details>
