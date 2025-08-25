@@ -30,7 +30,7 @@
         <em>
           <p> </p>
           <p> - Deepen my understanding of how Unreals Engine works. </p>
-          <p> - Explore combining Blueprint and C++ and which is better for certain tasks. </p>
+          <p> - Explore combining Blueprint and C++ and explore which is better for certain tasks. </p>
           <p> - Develup moduar systems that I can use in my future project to cut down on development time. </p>
           <p> - Deepen my understanding of how AI works in games and learn how to make it with diffrent systems.</p>
           <p> - Make a System that lets me quickly pieces together rooms and how to automate it if needed. </p>
