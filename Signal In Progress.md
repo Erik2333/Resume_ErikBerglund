@@ -1,8 +1,4 @@
 <h1> Signal In Progress </h1>
-
- <iframe width="420" height="315"
-src="https://youtu.be/kN2xbXOnlaE">
-</iframe> 
 <img src="Images/Signal in progress(In game menu).png" >  
     
 <details>
