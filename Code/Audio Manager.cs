@@ -140,6 +140,13 @@ public class AudioManager : MonoBehaviour
         
     }
 
+    IEnumerator returnToPool(AudioSource audioSource, float time)
+    {
+        yield return new WaitForSeconds(time);
+
+        returnToPool(audioSource);
+    }
+
     public void returnToPool(AudioSource audioSource)
     {
         if (audioPool.Count < poolLimit)
