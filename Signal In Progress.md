@@ -1,4 +1,4 @@
-<h1> 3D project: Signal In Progress </h1>
+<h1> Signal In Progress </h1>
 
 <img src="Images/Signal in progress(In game menu).png" >  
     
