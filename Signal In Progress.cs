@@ -1,8 +1,10 @@
-<body>
-  <pre class"Test">
-  <code>
-    public class AudioManager : MonoBehaviour
-    {
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class AudioManager : MonoBehaviour
+{
     public enum AudioType
     {
         Audio2D,
@@ -157,6 +159,4 @@
         else
             Destroy(audioSource);
     }
-  </code>
-  
-</body>
+}
