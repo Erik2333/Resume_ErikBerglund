@@ -2,7 +2,7 @@
 <img src="Images/Signal in progress(In game menu).png" >  
     
 <details>
-<summary><em> Audio Manager. </em></summary>
+<summary><em> Code: Audio Manager. </em></summary>
   
 ```csharp
 public class AudioManager : MonoBehaviour
