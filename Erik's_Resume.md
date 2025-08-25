@@ -11,7 +11,7 @@
     </a>
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     -->
-    <p> Development: 2026 Sep - 2026 Oct. </p>
+    <p> Development: 2026 Sep - 2026 Oct. (5 Weeks)</p> 
     <!-- <p> My Role: . </p> -->
     <p> Engine: Unity 6 </p>
     <p> Genré: ???. </p>
