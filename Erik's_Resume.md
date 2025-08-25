@@ -20,7 +20,7 @@
   <br>
   <br>
   
-  <h1> 3D project: Signal In Progress </h2>
+  <h1> 3D project: Signal In Progress </h1>
     <!-- " alt="this slowpoke moves"  width="250" alt="404 image"/> -->
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     <p> Development: 2025 april - 2025 July. (8 weeks) </p>
