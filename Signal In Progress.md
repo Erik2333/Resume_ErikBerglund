@@ -1,4 +1,4 @@
-  
+<img>  
     
 <details>
 <summary><em> This is a example of a dropdown for code </em></summary>
