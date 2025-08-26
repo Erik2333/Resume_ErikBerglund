@@ -8,7 +8,10 @@
     <h2> <em> My Responsibilities </em> </h2>
         <p> 
             We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
-            I dicided early to make a Audio Manager and try to make it easy to use. After some prototypes and some advice and wishes from my team.
+            I dicided early to try to make it easy to use Audio Manager. <br><br>
+            After some prototypes along with some advice and wishes from my team the result was a Audio Manager that impluments:
+            - Object pooling for audio sources <br>
+            - Audio dictionary where store audio clips and that clip a key <br>
         </p>
 <details>
 <summary><em> Code: Audio Manager. </em></summary>
