@@ -26,7 +26,7 @@
     <br>
       
   <details  open="">
-    <summary> Goal With this project. </summary>
+    <summary> <h3>Goal with this project.</h3> </summary>
         <em>
           <p> </p>
           <p> - Deepen my understanding of how Unreals Engine works. </p>
@@ -48,7 +48,7 @@
     <br>
       
   <details open="">
-    <summary> Goal With this project. </summary>
+    <summary> <h3>Goal with this project.</h3> </summary>
       <em>
         <p> </p>
         <p> - Make as much of the project in C++ as possible. </p>
@@ -67,7 +67,7 @@
     <br>
       
   <details open="">
-    <summary> Goal With this project. </summary>
+    <summary> <h3>Goal with this project.</h3> </summary>
       <p> </p>
       <p> <em> Make a Epic Game </em> &#128513; </p>
   </details>
