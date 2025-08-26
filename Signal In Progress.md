@@ -6,7 +6,10 @@
         </p>
         <br>
     <h2> <em> My Responsibilities </em> </h2>
-    <h3> <em> Audio System </em> </h3>
+        <p>
+            On the first day we divid up the work and thing we needed to be done to get a playable game.
+        </p>
+    <h2> <em> Audio System </em> </h2>
         <p> 
             We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
             I dicided early to try to make it easy to use Audio Manager. <br><br>
@@ -206,7 +209,7 @@ public class DictionaryItem
 
 </details>
 
-<h3> <em> Main Menu </em> </h3>
+<h2> <em> Main Menu </em> </h2>
         <p> 
             Since I was working on audio I also took on making the Main Menu and Settings since I needed to setup audio slider. <br>
             When it comes to UI it is something i do enjoy working with and I never had to setup a option menu was a intresting experiance. <br>
