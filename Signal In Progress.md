@@ -1,8 +1,15 @@
 <h1> Signal In Progress </h1>
     <img src="Images/Signal in progress(In game menu).png" >
-    <h2> <em> Game description </em> </h1>
-        <p> Signal In Progress is horror game about surviving a monster attack by keeping out of the room and call for help. </p>
-        <p> The game is about surviving a monster attack by keeping out of the room and call for help. </p>
+    <h2> <em> Game description </em> </h2>
+        <p> 
+            Signal In Progress is horror game about surviving a monster attack by keeping out of the room and calling for help.
+        </p>
+        <br>
+    <h2> <em> My Responsibilities </em> </h2>
+        <p> 
+            We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
+            I dicided early to make a Audio Manager and try to make it easy to use. After some prototypes and some advice and wishes from my team.
+        </p>
 <details>
 <summary><em> Code: Audio Manager. </em></summary>
   
