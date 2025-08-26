@@ -1,4 +1,4 @@
-  <h1> Thesis: A.I. in Video Games </h1>
+  <h1> A.I. in Video Games </h1>
       <p> <em>
         AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it. </em> <br><br>
         Term A.I. have two definistions: <br>
