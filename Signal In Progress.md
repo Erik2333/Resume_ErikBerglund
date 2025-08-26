@@ -6,6 +6,7 @@
         </p>
         <br>
     <h2> <em> My Responsibilities </em> </h2>
+    <h3> <em> Audio System </em> </h3>
         <p> 
             We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
             I dicided early to try to make it easy to use Audio Manager. <br><br>
@@ -13,8 +14,8 @@
             - Audio dictionary where you stores audio clips and give that clip a key. <br>
             - Object pooling for reusable audio sources. <br>
         </p>
-<details>
-<summary><em> Code: Audio Manager. </em></summary>
+    <details>
+        <summary><em> Code: Audio Manager. </em></summary>
   
 ```csharp
 public class AudioManager : MonoBehaviour
@@ -203,3 +204,13 @@ public class DictionaryItem
 ```
 
 </details>
+
+<h3> <em> Main Menu </em> </h3>
+        <p> 
+            We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
+            I dicided early to try to make it easy to use Audio Manager. <br><br>
+            After some prototypes, some advice and wishes from my team the result was a Audio Manager that impluments: <br>
+            - Audio dictionary where you stores audio clips and give that clip a key. <br>
+            - Object pooling for reusable audio sources. <br>
+        </p>
+<details>
