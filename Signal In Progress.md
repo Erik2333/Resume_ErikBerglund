@@ -209,7 +209,7 @@ public class DictionaryItem
 <h3> <em> Main Menu </em> </h3>
         <p> 
             Since I was working on audio I also took on making the Main Menu and Settings since I needed to setup audio slider. <br>
-            When it comes to UI is something i do enjoy working with and . <br>
+            When it comes to UI it is something i do enjoy working with and I never had to setup a option menu was a intresting experiance. <br>
              <br>
             -  <br>
             -  <br>
