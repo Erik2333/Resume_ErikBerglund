@@ -1,6 +1,8 @@
 <h1> Signal In Progress </h1>
-<img src="Images/Signal in progress(In game menu).png" >  
-    
+    <img src="Images/Signal in progress(In game menu).png" >
+    <h2> <em> Game description </em> </h1>
+        <p> Signal In Progress is horror game about surviving a monster attack by keeping out of the room and call for help. </p>
+        <p> The game is about surviving a monster attack by keeping out of the room and call for help. </p>
 <details>
 <summary><em> Code: Audio Manager. </em></summary>
   
