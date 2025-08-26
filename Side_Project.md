@@ -24,18 +24,16 @@
       <p> Genré: Sci-fi Action Horror, Squad RTS. </p>
       <p> Inspirations: Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
     <br>
-      
+      <blockquoate>test</blockquoate>
   <details  open="">
-    <summary> <h3>Goal with this project.</h3> </summary>
-        <em>
-          <p> </p>
-          <p> - Deepen my understanding of how Unreals Engine works. </p>
-          <p> - Explore combining Blueprint and C++ and explore which is better for certain tasks. </p>
-          <p> - Develup moduar systems that I can use in my future project to cut down on development time. </p>
-          <p> - Deepen my understanding of how AI works in games and learn how to make it with diffrent systems.</p>
-          <p> - Make a System that lets me quickly pieces together rooms and how to automate it if needed. </p>
-          <!-- <p> -  Make my own 3d assets for Environment, Characters and Animations. </p> -->
-        </em>
+     <summary> <h3>Goal with this project.</h3> </summary>
+    <p> 
+          - Deepen my understanding of how Unreals Engine works. <br>
+          - Explore combining Blueprint and C++ and explore which is better for certain tasks. <br>
+          - Develup moduar systems that I can use in my future project to cut down on development time. <br>
+          - Deepen my understanding of how AI works in games and learn how to make it with diffrent systems. <br>
+          - Make a System that lets me quickly pieces together rooms and how to automate it if needed. <br>
+  </p> 
   </details>
   <br>
     
