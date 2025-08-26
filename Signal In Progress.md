@@ -13,7 +13,7 @@
             - Object pooling for audio sources. <br>
             - Audio dictionary where you stores audio clips and give that clip a key. <br>
         </p>
-<details open="">
+<details>
 <summary><em> Code: Audio Manager. </em></summary>
   
 ```csharp
