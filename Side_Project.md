@@ -9,10 +9,9 @@
         Term A.I. have two meanings: <br>
         The most common term for what people think of when we say A.I. is Artificial Intelligence. <br>
         However, there is another term for it: <em> Algorithmic Intelligence. </em> <br>
-        When you do a closer look at video game "A.I.", Algorithmic Intelligence is a more correct term for what we see in video games since Artificial Intelligence is in most cases is             overkill for what is needs in video games.
+        When you do a closer look at video game "A.I.", Algorithmic Intelligence is a more correct term for what we see in video games since Artificial Intelligence is in most cases is             overkill for what is needs in video games. <br>
         <br>
-        <br>
-        My goal with my Thesis is to explain the diffrences between the two and why it's matters when talking about video game AI. <br>
+        My goal with my thesis is to explain the diffrences between the two and why it's matters when talking about video game A.I. <br>
       </p>
     <br>
   
