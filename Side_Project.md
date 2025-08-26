@@ -25,7 +25,7 @@
       <p> Inspirations: Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
     <br>
       
-  <details>
+  <details  open="">
     <summary> Goal With this project. </summary>
         <em>
           <p> </p>
@@ -47,7 +47,7 @@
       <p> Inspirations: Laika aged through blood, Red Dead Redempion, Mad Max. </p>
     <br>
       
-  <details>
+  <details open="">
     <summary> Goal With this project. </summary>
       <em>
         <p> </p>
@@ -66,7 +66,7 @@
       <p> Inspirations: Gothic Horror and European Folk Lore </p>
     <br>
       
-  <details>
+  <details open="">
     <summary> Goal With this project. </summary>
       <p> </p>
       <p> <em> Make a Epic Game </em> &#128513; </p>
