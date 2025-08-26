@@ -13,6 +13,7 @@
             After some prototypes, some advice and wishes from my team the result was a Audio Manager that impluments: <br>
             - Audio dictionary where you stores audio clips and give that clip a key. <br>
             - Object pooling for reusable audio sources. <br>
+            - Funtions that easy to use.
         </p>
     <details>
         <summary><em> Code: Audio Manager. </em></summary>
