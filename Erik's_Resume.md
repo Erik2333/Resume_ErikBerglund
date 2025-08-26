@@ -45,7 +45,6 @@
     <a href="https://yrgo-game-creator.itch.io/pogopirates">
       <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
     </a>
-    <img width="600" height="600" src="https://github.com/user-attachments/assets/c86a6872-f4a9-474b-bb49-3be4e4e6a8bc" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     
   <br>
   <br>
