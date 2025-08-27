@@ -9,7 +9,7 @@
         <p>
             On the first day we divid up the work and thing we needed to be done to get a playable game.
             We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
-            Since I was working on audio I also took on making the Main Menu and Settings since I needed to setup audio slider. <br>
+            Since I was working on a Audio Mixer, I also took on making the Main and Settings Menu. <br>
         </p>
     <h2> <em> Audio System </em> </h2>
         <p> 
