@@ -8,15 +8,15 @@
     <h2> <em> My Responsibilities </em> </h2>
         <p>
             On the first day we divid up the work and thing we needed to be done to get a playable game.
+            We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
+            Since I was working on audio I also took on making the Main Menu and Settings since I needed to setup audio slider. <br>
         </p>
     <h2> <em> Audio System </em> </h2>
         <p> 
-            We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
-            I dicided early to try to make it easy to use Audio Manager. <br><br>
-            After some prototypes, some advice and wishes from my team the result was a Audio Manager that impluments: <br>
+            I dicided early to try to make it easy to use Audio Manager that was easy to use. After some prototypes, some advice and wishes from my team the result was a Audio Manager that impluments: <br>
             - Audio dictionary where you stores audio clips and give that clip a key. <br>
-            - Object pooling for reusable audio sources. <br>
             - Funtions that easy to use.
+            - Object pooling for audio sources that reuses them as needed. <br>
         </p>
     <details>
         <summary><em> Code: Audio Manager. </em></summary>
@@ -211,7 +211,6 @@ public class DictionaryItem
 
 <h2> <em> Main Menu </em> </h2>
         <p> 
-            Since I was working on audio I also took on making the Main Menu and Settings since I needed to setup audio slider. <br>
             When it comes to UI it is something i do enjoy working with and I never had to setup a option menu was a intresting experiance. <br>
              <br>
             -  <br>
