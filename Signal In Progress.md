@@ -215,7 +215,7 @@ public class DictionaryItem
         <p> 
             When it comes to UI it is something i do enjoy working with and I never had made an option menu before was a intresting experiance. <br>
             <br>
-            I starded by researching what common functionalities option menu implements. <br>
+            I starded by researching what common functionalities option menu implements and then deciding what we need. <br>
             Then made some UI prefabs so if changes was required, I didn't have to change everything one piece at the time. <br>
             <br>
             When it comes to settings I did encounter some interesting logic problems and some experiences why testing build versions of the game is so important. <br>
