@@ -215,9 +215,10 @@ public class DictionaryItem
         <p> 
             When it comes to UI it is something i do enjoy working with and I never had made an option menu before was a intresting experiance. <br>
             <br>
-            I starded by researching what common functionalities option menu implements. Then made some UI prefabs so if changes was required, I didn't have to change everything one piece at the time. <br>
+            I starded by researching what common functionalities option menu implements. <br>
+            Then made some UI prefabs so if changes was required, I didn't have to change everything one piece at the time. <br>
             <br>
-            When it comes to settings I did encounter some interesting logical problems. There was one I encountered with screen resolutions that reinforced why testing builded project early is so important. <br>
+            When it comes to settings I did encounter some interesting logic problems and some experiences why testing build versions of the game is so important. <br>
              <br>
         </p>
 <img width="800" height="600" src="LongVideo-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
