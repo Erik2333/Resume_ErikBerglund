@@ -14,9 +14,11 @@
     <h2> <em> Audio System </em> </h2>
         <p> 
             I dicided early to try to make it easy to use Audio Manager that was easy to use. After some prototypes, some advice and wishes from my team the result was a Audio Manager that impluments: <br>
+            <blockquote>
             - Audio dictionary where you stores audio clips and give that clip a key use to fetch the clip in code. <br>
-            - Funtions that easy to use.
+            - Funtions that easy to use. <br>
             - Object pooling that reuse inactive Audio Sources when needed. <br>
+            </blockquote>
         </p>
     <details>
         <summary><em> Code: Audio Manager. </em></summary>
@@ -212,9 +214,10 @@ public class DictionaryItem
 <h2> <em> Main Menu </em> </h2>
         <p> 
             When it comes to UI it is something i do enjoy working with and I never had made an option menu before was a intresting experiance. <br>
-            I starded by researching what common functions option menu implements. Then made some UI prefabs so if changes was required, I didn't have to change everything one piece at the time. <br>
             <br>
-            When it comes to settings I did encounter some intresting logical problems that thankfully wasn't hard to fix. However, there was one I encounterd that reinforced why testing build project is important. <br>
+            I starded by researching what common functionalities option menu implements. Then made some UI prefabs so if changes was required, I didn't have to change everything one piece at the time. <br>
+            <br>
+            When it comes to settings I did encounter some interesting logical problems. There was one I encountered with screen resolutions that reinforced why testing builded project early is so important. <br>
              <br>
         </p>
 <details>
