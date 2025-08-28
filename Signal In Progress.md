@@ -211,9 +211,10 @@ public class DictionaryItem
 
 <h2> <em> Main Menu </em> </h2>
         <p> 
-            When it comes to UI it is something i do enjoy working with and I never had to setup a option menu was a intresting experiance. <br>
+            When it comes to UI it is something i do enjoy working with and I never had made an option menu before was a intresting experiance. <br>
+            I starded by researching what common functions option menu implements. Then made some UI prefabs so if changes was required, I didn't have to change everything one piece at the time. <br>
+            <br>
+            When it comes to settings I did encounter some intresting logical problems that thankfully wasn't hard to fix. However, there was one I encounterd that reinforced why testing build project is important. <br>
              <br>
-            -  <br>
-            -  <br>
         </p>
 <details>
