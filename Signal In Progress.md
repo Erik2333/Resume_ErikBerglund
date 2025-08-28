@@ -220,4 +220,5 @@ public class DictionaryItem
             When it comes to settings I did encounter some interesting logical problems. There was one I encountered with screen resolutions that reinforced why testing builded project early is so important. <br>
              <br>
         </p>
+<img width="600" height="600" src="https://github.com/user-attachments/assets/c86a6872-f4a9-474b-bb49-3be4e4e6a8bc" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <details>
