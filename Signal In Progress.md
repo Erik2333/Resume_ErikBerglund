@@ -220,6 +220,5 @@ public class DictionaryItem
             When it comes to settings I did encounter some interesting logical problems. There was one I encountered with screen resolutions that reinforced why testing builded project early is so important. <br>
              <br>
         </p>
-<img width="400" height="600" src="Clip1-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<img width="400" height="600" src="Clip1-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img width="800" height="600" src="Clip1-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <details>
