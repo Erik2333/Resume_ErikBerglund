@@ -221,5 +221,5 @@ public class DictionaryItem
             When it comes to settings I did encounter some interesting logic problems and some experiences why testing build versions of the game is so important. <br>
              <br>
         </p>
-<img width="800" height="600" src="LongVideo-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img width="800" height="600" src="Images/LongVideo-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <details>
