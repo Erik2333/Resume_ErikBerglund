@@ -8,9 +8,10 @@
     <h2> <em> My Responsibilities </em> </h2>
         <p>
             On the first day we divid up the work and thing we needed to be done to get a playable game.
-            We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. <br>
-            I also took on making the Main and Game Settings Menu. <br>
-        </p>
+            We desided early in the project that Audio was important for our game. Since i had some experience with it from Pogo Pirates nobody minded me being responsebul for it. 
+        </p> <br>
+        <p> I also took on making the Main and Game Settings Menu. </p>
+        <p> Also helped out with testing, finding bugs and identify the root of the problem before talking to the person about fixes. </p>
     <h2> <em> Audio System </em> </h2>
         <p> 
             I dicided early to try to make it easy to use Audio Manager that was easy to use. After some prototypes, some advice and wishes from my team the result was a Audio Manager that impluments: <br>
@@ -215,10 +216,10 @@ public class DictionaryItem
         <p> 
             When it comes to UI it is something i do enjoy working with and I never had made an option menu before was a intresting experiance. <br>
             <br>
-            I starded by researching what common functionalities option menu implements and then deciding what we need. <br>
+            I starded by researching what common functionalities menu implements and then deciding what we needed. <br>
             Then made some UI prefabs so if changes was required, I didn't have to change everything one piece at the time. <br>
             <br>
-            When it comes to settings I did encounter some interesting logic problems and some experiences why testing build versions of the game is so important. <br>
+            When it comes to settings I did encounter some interesting logic problems and some bugs reforced why testing build versions of the project is so important. <br>
              <br>
         </p>
 <img width="800" height="600" src="Images/LongVideo-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
