@@ -14,11 +14,11 @@
     <h2> <em> Audio System </em> </h2>
         <p> 
             I dicided early to try to make it easy to use Audio Manager that was easy to use. After some prototypes, some advice and wishes from my team the result was a Audio Manager that impluments: <br>
-            <blockquote>
-            - Audio dictionary where you stores audio clips and give that clip a key use to fetch the clip in code. <br>
-            - Funtions that easy to use. <br>
-            - Object pooling that reuse inactive Audio Sources when needed. <br>
-            </blockquote>
+            <ul>
+            <li> Audio dictionary where you stores audio clips and give that clip a key use to fetch the clip in code. </li>
+            <li> Funtions that easy to use. </li>
+            <li> Object pooling that reuse inactive Audio Sources when needed. </li>
+            </ul>
         </p>
     <details>
         <summary><em> Code: Audio Manager. </em></summary>
@@ -222,4 +222,4 @@ public class DictionaryItem
              <br>
         </p>
 <img width="800" height="600" src="Images/LongVideo-ezgif.com-video-to-gif-converter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<details>
+
