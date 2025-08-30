@@ -1,5 +1,5 @@
 <h1> Signal In Progress </h1>
-    <img src="Images/LongVideo-ezgif.com-video-to-gif-converter.gif"
+    <img src="Images/Signal In Progress Menu.png"
     <h2> <em> Game description </em> </h2>
         <p> 
             Signal In Progress is horror game about surviving a monster attack by keeping out of the room and calling for help.
