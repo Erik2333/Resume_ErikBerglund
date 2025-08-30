@@ -1,5 +1,5 @@
 <body>
-    <h1> Signal In Progress </h1>
+    <h1> Pogo Pirates </h1>
     <img src="Images/Pogo Pirates Logo.png"
     <h2> <em> Game description </em> </h2>
         <p> 
