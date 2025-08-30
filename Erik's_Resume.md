@@ -22,6 +22,7 @@
   
   <h1> 3D project: Signal In Progress </h1>
     <!-- " alt="this slowpoke moves"  width="250" alt="404 image"/> -->
+    <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     <p> Development: 2025 april - 2025 July. (8 weeks) </p>
     <!-- <p> My Role: Programming Sound System, Main Menu UI and user Settings. </p> -->
