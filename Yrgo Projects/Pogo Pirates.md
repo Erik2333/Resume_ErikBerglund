@@ -14,12 +14,7 @@
         </ul>
     <h2> <em> Level Desine and Testing </em> </h2>
         <p> We feelt that good level desine was important and early gameplay had players falling of platforms to manny times in early testing. </p>
-        <p> I took the time to explor the players movement and how platforms needed to be placed to ensure players can be more in control of there jumps. </p>
-            <blockquote>
-            -  <br>
-            -  <br>
-            -  <br>
-            </blockquote>
+        <p> I took the time to explore the players movement and how platforms needed to be placed to ensure players can be more in control of there jumps. </p>
         </p>
     <details>
         <summary><em> Code: Audio Manager. </em></summary>
