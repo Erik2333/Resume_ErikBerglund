@@ -2,9 +2,11 @@
       <p> <em>
         AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it. </em> <br><br>
         Term A.I. have two definistions: <br>
+          <ul>
+           <li> Artificial Intelligence: </em> The most common term for what people think of when we say A.I. </li>
+           <li> Algorithmic Intelligence.</em> This is probobly the closest correct term for what A.I. is in video games  </li>
+          </ul>
         <blockquote>
-          <p> <em> - Artificial Intelligence: </em> The most common term for what people think of when we say A.I. </em> </p>
-          <p> <em>- Algorithmic Intelligence.</em> This is probobly the closest correct term for what A.I. is in video games  </em> </p>
         </blockquote>
         True Artificial Intelligence is overkill for video games. It's only need to minic intelligence to make it feel alive. <br>
         <br>
