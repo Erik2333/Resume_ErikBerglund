@@ -20,8 +20,7 @@
   <br>
   <br>
   
-  <h1> 3D project: Signal In Progress </h1>
-    <!-- " alt="this slowpoke moves"  width="250" alt="404 image"/> -->
+  <h1> <a href=https://yrgo-game-creator.itch.io/signal-in-progress> 3D project: Signal In Progress </a></h1>
     <img width="1596" height="894" alt="Main Menu BG Logo" src="Yrgo Projects/Images/Signal In Progress Menu.png" />
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     <p> Development: 2025 april - 2025 July. (8 weeks) </p>
@@ -29,23 +28,20 @@
     <p> Engine: Unity 6 </p>
     <p> Genré: 3D Horror. </p>
     <p> Team: 4 programmers and 2 Artists. </em> </p>
-    <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
-      <img width="1188" height="676" alt="Signal In Progress" src="Images/Signal in progress(In game menu).png" />
-    </a>
     
   <br>
   <br>
   
   <h1> 2D project: Pogo Pirates</h1>
+    <a href="https://yrgo-game-creator.itch.io/pogopirates">
+      <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
+    </a>
     <a href="https://yrgo-game-creator.itch.io/pogopirates"> <p> Itch Link </p> </a>
     <p> Developed: 2022 Nov - 2023 Jan (7 weeks) </p>
     <!-- <p> My Role: Sound and Level design </p> -->
     <p> Engine: Unity </p>
     <p> Genré: Couch CO-OP, PvP Arena Fighter. </p>
     <p> Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner. </p>
-    <a href="https://yrgo-game-creator.itch.io/pogopirates">
-      <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
-    </a>
     
   <br>
   <br>
