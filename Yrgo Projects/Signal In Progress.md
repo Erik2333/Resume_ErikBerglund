@@ -1,6 +1,6 @@
 <h1> Signal In Progress </h1>
     <img src="Images/Signal In Progress Menu.png"
-    <h3> >>> <a href="Erik's_Resume.md"> Back to Main Page </a> <<<  <h3> 
+    <h3> >>> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Erik's_Resume.md"> Back to Main Page </a> <<<  <h3> 
     <h2> <em> Game description </em> </h2>
         <p> 
             Signal In Progress is horror game about surviving a monster attack by keeping out of the room and calling for help.
