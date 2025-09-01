@@ -36,15 +36,15 @@
 
 <h1> Unstructured Pattern </h1>
 
-<img src= "Images/EngineerMeme.webp">
+<img width="800" height="600" src= "Images/EngineerMeme.webp">
 
 
 
 <h1> State Machine Pattern </h1>
 
-<img src= "Images/the two states of a programmer.png">
+<img width="800" height="600" src= "Images/the two states of a programmer.png">
 
 
 
-<h1> Behaviour Tree </h1>
-<img src= "Images/Behaviour Tree.png">
+<h1> Behaviour Tree Pattern </h1>
+<img width="600" height="400" src= "Images/Behaviour Tree.png">
