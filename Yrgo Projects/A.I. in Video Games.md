@@ -35,16 +35,24 @@
     <br>
 
 <h1> Unstructured Pattern </h1>
+      <div align="center">
+            <img width="800" height="600" src= "Images/EngineerMeme.webp">
+      </div>
+      <p> "Unstructured Pattern" sounds counter intuitive and you are not wrong. The thing is there are many exampels of game enemys that are stupidly simple and i what to high light this. There are game that have enemys that litery walk towards the player and have become successful games. </p>
 
-<img width="800" height="600" src= "Images/EngineerMeme.webp">
-
-
+<h2> <strong><em> The game I'm talking about is Vampire Survivors </em></strong> </h2>
+            <img width="800" height="600" src= "Images/Vampire Survivors.jpg">
 
 <h1> State Machine Pattern </h1>
-
-<img width="800" height="600" src= "Images/the two states of a programmer.png">
+      <div align="center">
+            <img width="800" height="600" src= "Images/the two states of a programmer.png">
+      </div>
+      <p>https://medium.com/@umut_cirak/state-machines-choosing-the-right-ai-model-for-your-game-298fdfe8b7c6</p>
 
 
 
 <h1> Behaviour Tree Pattern </h1>
-<img width="600" height="400" src= "Images/Behaviour Tree.png">
+      <div align="center">
+            <img width="600" height="400" src= "Images/Behaviour Tree.png">
+      </div>
+      <p> https://www.gamedeveloper.com/programming/behavior-trees-for-ai-how-they-work </p>
