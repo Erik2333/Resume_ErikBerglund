@@ -36,4 +36,10 @@
 
 <h1> Unstructured Pattern </h1>
 
-<img = "Yrgo Projects/Images/EngineerMeme.webp">
+<img src= "Images/EngineerMeme.webp">
+
+
+
+<h1> State Machine Pattern </h1>
+
+<img src= "Images/EngineerMeme.webp">
