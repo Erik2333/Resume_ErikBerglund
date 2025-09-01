@@ -42,4 +42,9 @@
 
 <h1> State Machine Pattern </h1>
 
-<img src= "Images/EngineerMeme.webp">
+<img src= "Images/computersciencedegreecurriculum-v0-ojhzryevllhc1.webp">
+
+
+
+<h1> Behaviour Tree </h1>
+<img src= "Images/Behaviour Tree.png">
