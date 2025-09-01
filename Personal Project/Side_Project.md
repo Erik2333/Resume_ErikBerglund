@@ -3,21 +3,6 @@
       <p>
         These are project that i have planned out for my personal growth as a game dev. <br>
       </p>
-  <h2> Thesis: A.I. in Video Games </h2>
-      <p> <em>
-        AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it. </em> <br><br>
-        Term A.I. have two definistions: <br>
-        <blockquote>
-          <p> <em> - Artificial Intelligence: </em> The most common term for what people think of when we say A.I. </em> </p>
-          <p> <em>- Algorithmic Intelligence.</em> This is probobly the closest correct term for what A.I. is in video games  </em> </p>
-        </blockquote>
-        True Artificial Intelligence is overkill for video games. It's only need to minic intelligence to make it feel alive. <br>
-        <br>
-        My goal with my thesis is to use several A.I. patters that see use in video games and try to explain it's Advantadges and disadvantages. <br>
-        I will also talk about information gathering using ChatGPT and the dangers about blindly following what its say/show. <br>
-      </p>
-    <br>
-  
   <h2> Tainted Earth </h2>
       <p> <em>
         You lead the despreat group of survivors of a penal mining colony overrun by mosters and rogue inmates. <br>
