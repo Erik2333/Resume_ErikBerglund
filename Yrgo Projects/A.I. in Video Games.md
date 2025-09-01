@@ -42,7 +42,7 @@
 
 <h1> State Machine Pattern </h1>
 
-<img src= "Images/computersciencedegreecurriculum-v0-ojhzryevllhc1.webp">
+<img src= "Images/the two states of a programmer.png">
 
 
 
