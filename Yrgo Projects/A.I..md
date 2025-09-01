@@ -10,7 +10,16 @@
       <p> True Artificial Intelligence is overkill for video games. It's only need to minic intelligence to make it feel alive. <br>
         My goal with my thesis is to use several A.I. patters that see use in video games and try to explain it's Advantadges and disadvantages with each pattern. 
       </p>
-      <p> Hint: It's mostly about Time vs. Scalability. </p> 
+      <blockquote>
+            <p> Hint: It's mostly about Time vs. Scalability.  </p>
+      </blockquote>
+      <p> The Patterns I'm goint to talk about are: </p>
+      <ul>
+            <li> Unstructured: A quick way to solve a simple behaviour. </li>
+            <li> State Machine: Crawling, Walking, Running. All are ways to move around, but you can only do one at the time. </li>
+            <li> Behaviure Tree: Form root to leaf, you must follow the branches. </li>
+            <li> Goal Oriented Action Planing: A pattern with manny unexpected surprises. </li>
+      </ul>
       <p> I will also talk about the dangers of not checking information sources and how to gather information in a responsable way using ChatGPT. </p> 
     <br>
     <br>
