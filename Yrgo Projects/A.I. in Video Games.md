@@ -1,6 +1,6 @@
 <h1> Intro </h1>
       <div align="center">
-            <img width="800" height="600" src= "Images/optimistic-developer-this-is-common-sense-feature-doesnt-need-documentation-end-user.png">
+            <img width="600" height="800"src= "Images/gamers-dont-like-yellow-paint-it-seems.webp">
       </div>
       <p> 
         <em> AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it.</em>
