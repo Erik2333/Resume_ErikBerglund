@@ -2,6 +2,7 @@
       <div align="center">
             <img width="600" height="800"src= "Images/gamers-dont-like-yellow-paint-it-seems.png">
       </div>
+      <br>
       <p> 
         <em> AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it.</em>
       </p>
@@ -29,7 +30,7 @@
       <p> The Patterns I'm goint to talk about are: </p>
       <ul>
             <li> <strong><em> Unstructured: </em></strong> A simple solution for simple behaviour. </li>
-            <li> <strong><em> State Machine: </em></strong> Crawling, Walking, Running. All are ways to move around, but you can only do one at the time. </li>
+            <li> <strong><em> State Machine: </em></strong> Crawling, Walking and Running. All are ways to move around, but you can only do one at the time. </li>
             <li> <strong><em> Behaviure Tree: </em></strong> Form root to leaf, you must follow the branches to get to you goal. </li>
             <li> <strong><em> G.O.A.P: </em></strong> A pattern with manny surprises and unexpected results. </li>
       </ul>
