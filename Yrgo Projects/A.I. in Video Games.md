@@ -1,4 +1,7 @@
 <h1> Intro </h1>
+      <div align="center">
+            <img width="800" height="600" src= "Images/optimistic-developer-this-is-common-sense-feature-doesnt-need-documentation-end-user.png">
+      </div>
       <p> 
         <em> AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it.</em>
       </p>
@@ -38,7 +41,7 @@
       <div align="center">
             <img width="800" height="600" src= "Images/EngineerMeme.webp">
       </div>
-      <p> "Unstructured Pattern" sounds counter intuitive and you are not wrong. The thing is there are many exampels of game enemys that are stupidly simple and i what to high light this. There are game that have enemys that litery walk towards the player and have become successful games. </p>
+      <p> "Unstructured Pattern" sounds counter intuitive and you are not wrong. The thing is there are many exampels of game enemys that are stupidly simple and i what to high light this. There are game that have enemys that literally only move towards the player and have become successful games. </p>
 
 <h2> <strong><em> The game I'm talking about is Vampire Survivors </em></strong> </h2>
             <img width="800" height="600" src= "Images/Vampire Survivors.jpg">
