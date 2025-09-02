@@ -1,4 +1,4 @@
-<h1> Intro </h1>
+<h1> Intro: The Illusion of Life </h1>
       <div align="center">
             <img width="600" height="800"src= "Images/gamers-dont-like-yellow-paint-it-seems.png">
       </div>
