@@ -43,7 +43,7 @@
       </div>
       <p> "Unstructured Pattern" sounds counter intuitive and you are not wrong. The thing is there are many exampels of game enemys that are stupidly simple and i what to high light this. There are game that have enemys that literally only move towards the player and have become successful games. </p>
 
-<h2> <strong><em> The game I'm talking about is Vampire Survivors </em></strong> </h2>
+<h2> <strong><em> Vampire Survivors </em></strong> </h2>
             <img width="800" height="600" src= "Images/Vampire Survivors.jpg">
 
 <h1> State Machine Pattern </h1>
