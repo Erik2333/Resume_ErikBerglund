@@ -1,6 +1,6 @@
 <h1> Intro </h1>
       <div align="center">
-            <img width="600" height="800"src= "Images/gamers-dont-like-yellow-paint-it-seems.webp">
+            <img width="600" height="800"src= "Images/gamers-dont-like-yellow-paint-it-seems.png">
       </div>
       <p> 
         <em> AI have alwayes been a subject that always intreegd me but never really hade the time to explore fully and this fact made it a perfect opertunity to dive into it.</em>
