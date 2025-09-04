@@ -2,7 +2,7 @@
   <h1 >Resume: Erik Berglund (Work In Progress)</h1>
     <p> Welcome to My Portfolio! </p>
     <p>
-      My name is Erik Berglund and I'm a Man in my early 30s how have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when i was 5 years old.
+      My name is Erik Berglund and I'm a Man in my early 30s hows always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when i was 5 years old.
     </p>
     <p>
       Now that I have spent a year at Yrgo studying and making video games and I now know without a doubt that I what to develop games for the rest of my life.
@@ -42,7 +42,7 @@
   <br>
   <br>
   
-  <h1> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Signal%20In%20Progress.md> 2D project: Pogo Pirates </a> <-- Click for more info! </h1>
+  <h1> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Pogo%20Pirates.md> 2D project: Pogo Pirates </a> <-- Click for more info! </h1>
     <a href="https://yrgo-game-creator.itch.io/pogopirates">
       <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
     </a>
