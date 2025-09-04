@@ -1,11 +1,17 @@
 <body>
   <h1 >Resume: Erik Berglund (Work In Progress)</h1>
-  <p> Welcome to My Portfolio! </p>
-  <p> My name is Erik Berglund and I'm a Man in my early 30s how have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES (Nintendo Entertainment System) when i was 5 years old. </p>
-  <p>  Now that I have spent a year at Yrgo studying and making video games and I now know without a doubt that I what to develop games for the rest of my life.
-</p>
-  <br>
-  <br>
+    <p> Welcome to My Portfolio! </p>
+    <p>
+      My name is Erik Berglund and I'm a Man in my early 30s how have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when i was 5 years old.
+    </p>
+    <p>
+      Now that I have spent a year at Yrgo studying and making video games and I now know without a doubt that I what to develop games for the rest of my life.
+    </p>
+    <p>
+      I will be updating this activly with new stuff that i make so keep a eye out and maybe you'll see something intresting.
+    </p>
+    <br>
+    <br>
 
   <h1> Game Developed at Yrgo </h1>
     <h1> VR project: ??? </h2>
