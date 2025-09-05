@@ -43,6 +43,16 @@
   <br>
   <br>
   
+  <h1> Unreal project </h2>
+    <p> Development: 3 Weeks </p> 
+    <!-- <p> My Role: . </p> -->
+    <p> Engine: Unreal 5 </p>
+    <p> Genré: First Person Shooter. </p>
+    <p> Team: Myself </em> </p>
+    
+  <br>
+  <br>
+  
   <h1> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Pogo%20Pirates.md> Pogo Pirates </a> <-- Click for more info! </h1>
     <a href="https://yrgo-game-creator.itch.io/pogopirates">
       <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
