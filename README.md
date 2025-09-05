@@ -2,7 +2,7 @@
   <h1 >Resume: Erik Berglund (Work In Progress)</h1>
     <p> Welcome to My Portfolio! </p>
     <p>
-      My name is Erik Berglund and I'm a Man in my early 30s hows always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when i was 5 years old.
+      My name is Erik Berglund and I'm a Man in my early 30s.<br>Always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when i was 5 years old.
     </p>
     <p>
       Now that I have spent a year at Yrgo studying and making video games and I now know without a doubt that I what to develop games for the rest of my life.
@@ -21,11 +21,11 @@
     </a>
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     -->
-    <p> Development: 2026 Sep - 2026 Oct. (5 Weeks)</p> 
+    <p> Development: 2026 Sep - 2026 Oct. (6 Weeks)</p> 
     <!-- <p> My Role: . </p> -->
     <p> Engine: Unity 6 </p>
     <p> Genré: ???. </p>
-    <p> Team: 4 programmers. </em> </p>
+    <p> Team: 3 programmers. </em> </p>
     
   <br>
   <br>
@@ -50,7 +50,7 @@
     <p> Developed: 2022 Nov - 2023 Jan (7 weeks) </p>
     <!-- <p> My Role: Sound and Level design </p> -->
     <p> Engine: Unity </p>
-    <p> Genré: Couch CO-OP, PvP Arena Fighter. </p>
+    <p> Genré: PvP Arena Fighter. </p>
     <p> Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner. </p>
     
   <br>
