@@ -1,5 +1,5 @@
 <body>
-  <h1 >Resume: Erik Berglund (Work In Progress)</h1>
+  <h1 >Erik Berglund</h1>
     <p> Welcome to My Portfolio! </p>
     <p>
       My name is Erik Berglund and I'm a Man in my early 30s.
