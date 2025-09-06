@@ -197,7 +197,7 @@ public class DictionaryItem
 
 </details>
 
-<h2> <em> Main Menu </em> </h2>
+<h2> <em> Menu And Settings </em> </h2>
         <p> 
             When it comes to UI it is something i do enjoy working with and I never had made an option menu before was a intresting experiance. <br>
             <br>
