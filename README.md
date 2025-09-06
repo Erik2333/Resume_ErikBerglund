@@ -2,34 +2,33 @@
   <h1 >Erik Berglund</h1>
     <p> Welcome to My Portfolio! </p>
     <p>
-      My name is Erik Berglund and I'm a Man in my early 30s.
-  <br>I always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when i was 5 years old.
+      My name is Erik Berglund and I'm a man in my early 30s.
+  <br> I always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
     </p>
     <p>
-      Now that I have spent a year at Yrgo studying and making video games and I now know without a doubt that I what to develop games for the rest of my life.
+      Now that I have spent a year at Yrgo studying and making video games. I now know without a doubt that I want to develop games for the rest of my life.
     </p>
     <p>
-      I will be updating this activly with new stuff that i make so keep a eye out and maybe you'll see something intresting.
+      I will be updating this actively with new stuff that I make.
     </p>
     <br>
     <br>
 
   <h1> Game Developed at Yrgo </h1>
-    <h1> VR project: ??? </h2>
-    <!--
+  <!--
+    <h2> VR project: ??? </h2>
     <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
       <img width="1188" height="676" alt="Signal In Progress" src="https://github.com/user-attachments/assets/123d3460-c59c-4656-9810-f91403698d39" />
     </a>
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
-    -->
     <p> Development: 2026 Sep - 2026 Oct. (6 Weeks)</p> 
-    <!-- <p> My Role: . </p> -->
+    <p> My Role: . </p>
     <p> Engine: Unity 6 </p>
     <p> Genré: ???. </p>
     <p> Team: 3 programmers. </em> </p>
-    
-  <br>
-  <br>
+    <br>
+    <br>
+  -->
   
   <h1> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Signal%20In%20Progress.md> Signal In Progress </a> <-- Click for more info! </h1>
     <img width="1596" height="894" alt="Main Menu BG Logo" src="Yrgo Projects/Images/Signal In Progress Menu.png" />
@@ -39,16 +38,6 @@
     <p> Engine: Unity 6 </p>
     <p> Genré: 3D Horror. </p>
     <p> Team: 4 programmers and 2 Artists. </em> </p>
-    
-  <br>
-  <br>
-  
-  <h1> Untitled Unreal Shooter </h2>
-    <p> Development: 4 Weeks </p>
-    <!-- <p> My Role: . </p> -->
-    <p> Engine: Unreal 5 (Blueprint)</p>
-    <p> Genré: First Person Shooter. </p>
-    <p> Team: Myself </em> </p>
     
   <br>
   <br>
