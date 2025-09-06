@@ -18,9 +18,11 @@
 <h2> <em> Level Desine </em> </h2>
         <p> We feelt that good level desine was important and early gameplay had players falling of platforms to manny times in early testing. </p>
         <p> I took the time to explore the players movement and how platforms needed to be placed to ensure players can be more in control of there jumps. </p>
-        <p> One of the first things i did was to make a test level and place platforms at equal distance to ensure i could perfectly understand jump distance, how they fall and what cool stuff i could imploment. Sadly they dicided to change the characters movement so the test level stopped working. Thankfully I leaned what I needed to continue. </p>
-        <p> 
+        <p> One of the first things i did was to make a test level and place platforms at equal distance to ensure i could perfectly understand jump distance, how they fall and what cool stuff i could imploment. Sadly they dicided to change the characters movement so the test level stopped working. </p> 
+        <p> Thankfully I leaned what I needed to continue. 🫠 </p> 
         <br>
+        <p> I started by looking at our first map named "Caribbean Islands" and started figuring out placement of the platforms while trying to keep it close to the original. </p>
+        <p> After i was happy with it i started figureing out our second map "Ship" and there was a loot of changes made to it. </p>
         
 <h2> <em> Audio Implumentation </em> </h2>
         <p> It basically started with "how is going to implement sounds?" and after some discussion it was decided that I had the most time to dedicate to it. </p>
