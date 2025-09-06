@@ -22,7 +22,7 @@
         <p> Thankfully I leaned what I needed to continue. 🫠 </p> 
         <br>
         <p> I started by looking at our first map named "Caribbean Islands" and started figuring out placement of the platforms while trying to keep it close to the original. </p>
-        <p> After i was happy with it i started figureing out our second map "Ship" and there was a loot of changes made to it. </p>
+        <p> After i was happy with it i started figureing out our second map. </p>
         
 <h2> <em> Audio Implumentation </em> </h2>
         <p> It basically started with "how is going to implement sounds?" and after some discussion it was decided that I had the most time to dedicate to it. </p>
