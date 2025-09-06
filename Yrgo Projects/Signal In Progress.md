@@ -23,7 +23,7 @@
             </ul>
         </p>
     <details>
-        <summary><em> Code: Audio Manager. </em></summary>
+        <summary><h3><em> Code: Audio Manager. </em></h3></summary>
   
 ```csharp
 using System;
