@@ -4,7 +4,7 @@
     <h2> <em> Game description </em> </h2>
         <p> 
             Smash style platform fighter where your chararacter constantly jump on a pogostick. 
-            <br>The Main Idea of this project was to make a easy to pick up arena fighter that new players could enjoy and quickly get to a equal with more experienced player.
+            <br>The Main Idea of this project was to make a easy to pick up arena fighter that new players could enjoy and quickly get to a equal footing with more experienced player.
         </p>
         <br>
 <h2> <em> My Responsibilities </em> </h2>
