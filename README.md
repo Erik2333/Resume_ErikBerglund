@@ -6,7 +6,7 @@
   <br> I always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
     </p>
     <p>
-      Now that I have spent a year at Yrgo studying and making video games. I now know without a doubt that I want to develop games for the rest of my life.
+      I have spent a year at Yrgo studying and making video games. I now know without a doubt that I want to develop games for the rest of my life.
     </p>
     <p>
       I will be updating this actively with new stuff that I make.
