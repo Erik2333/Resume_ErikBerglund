@@ -3,7 +3,7 @@
     <p> Welcome to My Portfolio! </p>
     <p>
       My name is Erik Berglund and I'm a man in my early 30s.
-  <br> I always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
+  <br> I have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
     </p>
     <p>
       I have spent a year at Yrgo studying and making video games. I now know without a doubt that I want to develop games for the rest of my life.
