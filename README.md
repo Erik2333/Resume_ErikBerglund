@@ -54,19 +54,20 @@
     
   <br>
   <br>
+<!--
+    <h1> Other Smaller Projects </h1>
 
-<h1> Other Smaller Projects </h1>
-
-<h2> Unnamed Unreal Shooter </h2>>
+    <h2> Unnamed Unreal Shooter </h2>
     <p> Developed: 4 weeks </p>
     <!-- <p> My Role: Sound and Level design </p> -->
     <p> Engine: Unreal 5 </p>
     <p> Genré: Shooter. </p>
     <p> Team: Myself </p>
 
-<h2> Single player Battle Ship </h2>>
+    <h2> Single player Battle Ship </h2>
     <p> Developed: 4 weeks </p>
     <!-- <p> My Role: Sound and Level design </p> -->
     <p> Engine: Unity </p>
     <p> Genré: Tactics Smartphone game </p>
     <p> Team: Myself </p>
+    -->
