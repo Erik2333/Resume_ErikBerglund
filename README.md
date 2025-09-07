@@ -1,12 +1,11 @@
-<body>
-  <h1 >Erik Berglund</h1>
+<h1 >Erik Berglund</h1>
     <p> Welcome to My Portfolio! </p>
     <p>
       My name is Erik Berglund and I'm a man in my early 30s.
   <br> I have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
     </p>
     <p>
-      I have spent a year at Yrgo studying and making video games and now I know without a doubt that I want to develop games for the rest of my life.
+      I have spent a year at Yrgo studying and making video games. Now I know without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
     </p>
     <p>
       I will be updating this actively with new stuff that I make.
@@ -14,7 +13,7 @@
     <br>
     <br>
 
-  <h1> Game Developed at Yrgo </h1>
+<h1> Game Developed at Yrgo </h1>
   <!--
     <h2> VR project: ??? </h2>
     <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
@@ -30,7 +29,7 @@
     <br>
   -->
   
-  <h1> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Signal%20In%20Progress.md> Signal In Progress </a> <-- Click for more info! </h1>
+<h2> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Signal%20In%20Progress.md> Signal In Progress </a> <-- Click for more info! </h2>
     <img width="1596" height="894" alt="Main Menu BG Logo" src="Yrgo Projects/Images/Signal In Progress Menu.png" />
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     <p> Development: 2025 April - 2025 July. (8 weeks) </p>
@@ -42,7 +41,7 @@
   <br>
   <br>
   
-  <h1> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Pogo%20Pirates.md> Pogo Pirates </a> <-- Click for more info! </h1>
+<h2> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Pogo%20Pirates.md> Pogo Pirates </a> <-- Click for more info! </h2>
     <a href="https://yrgo-game-creator.itch.io/pogopirates">
       <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
     </a>
@@ -55,4 +54,19 @@
     
   <br>
   <br>
-</body>
+
+<h1> Other Smaller Projects </h1>
+
+<h2> Unnamed Unreal Shooter </h2>>
+    <p> Developed: 4 weeks </p>
+    <!-- <p> My Role: Sound and Level design </p> -->
+    <p> Engine: Unreal 5 </p>
+    <p> Genré: Shooter. </p>
+    <p> Team: Myself </p>
+
+<h2> Single player Battle Ship </h2>>
+    <p> Developed: 4 weeks </p>
+    <!-- <p> My Role: Sound and Level design </p> -->
+    <p> Engine: Unity </p>
+    <p> Genré: Tactics Smartphone game </p>
+    <p> Team: Myself </p>
