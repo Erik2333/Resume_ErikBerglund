@@ -33,7 +33,7 @@
   <h1> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Signal%20In%20Progress.md> Signal In Progress </a> <-- Click for more info! </h1>
     <img width="1596" height="894" alt="Main Menu BG Logo" src="Yrgo Projects/Images/Signal In Progress Menu.png" />
     <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
-    <p> Development: 2025 april - 2025 July. (8 weeks) </p>
+    <p> Development: 2025 April - 2025 July. (8 weeks) </p>
     <!-- <p> My Role: Programming Sound System, Main Menu UI and user Settings. </p> -->
     <p> Engine: Unity 6 </p>
     <p> Genré: 3D Horror. </p>
@@ -47,7 +47,7 @@
       <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
     </a>
     <a href="https://yrgo-game-creator.itch.io/pogopirates"> <p> Itch Link </p> </a>
-    <p> Developed: 2022 Nov - 2023 Jan (7 weeks) </p>
+    <p> Developed: 2025 Nov - 2025 Jan (7 weeks) </p>
     <!-- <p> My Role: Sound and Level design </p> -->
     <p> Engine: Unity </p>
     <p> Genré: PvP Arena Fighter. </p>
