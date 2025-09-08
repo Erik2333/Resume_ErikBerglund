@@ -20,7 +20,7 @@
         <em>
           <p> - Explore combining Blueprint and C++ and explore which is better for certain tasks. </p>
           <p> - Develop modular systems that I can use in my future project to cut down on development time. </p>
-          <p> - Deepen my understanding of how AI works in games and learn how to make it with different systems. </p>
+          <p> - Deepen my understanding of how AI works in Unreal and make it either behaviour tree or goap. </p>
           <p> - Make a System that lets me quickly pieces together rooms and how to automate it if needed. </p>
         </em>
     </blockquote>
@@ -41,7 +41,7 @@
       <em>
         <p> - Make as much of the project in C++ as possible. </p>
         <p> - Deepen my understanding of how Story and Music can be used enhance the tone and feeling of a game. </p>
-        <p> - Explore/Implement Inverse Kinematics for character and vehicles </p>
+        <p> - Implement Inverse Kinematics for character and vehicles </p>
       </em>
       </blockquote>
   </details>
