@@ -24,7 +24,7 @@
         <p> I started by looking at our first map named "Caribbean Islands" and started figuring out placement of the platforms while trying to keep it close to the original. </p>
         <p> After i was happy with it i started figureing out our second map "Ship". After several tests we where happy with it. </p>
         <p> After that i was let lose to experiment with other map conseps like Swinging, Rotating and Moving platforms to make new ideas for maps. In the end we only had time for one of them and that led to "Misty" where we have a moving waterwheel with 4 moving platform.</p>
-        
+<!--
 <h2> <em> Audio Implumentation </em> </h2>
         <p> It basically started with "how is going to implement sounds?" and after some discussion it was decided that I had the most time to dedicate to it. </p>
         <p> It started with understanding the Unity audio system, then getting  </p>
