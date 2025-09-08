@@ -5,12 +5,12 @@
       </p>
   <h2> Tainted Earth </h2>
       <p> <em>
-        You lead the despreat group of survivors of a penal mining colony overrun by mosters and rogue inmates. <br>
+        You lead the desperate group of survivors of a penal mining colony overrun by monsters and rogue inmates. <br>
         Your Goal: Escape the colony!
       </em> </p>
-      <p> <strong> Development: </strong> Prepruduction </p>
+      <p> <strong> Development: </strong> Preproduction </p>
       <p> <strong> Engine: </strong> Unreal Engine 5 </p>
-      <p> <strong> Genré: </strong> Sci-fi Action Horror, Squad RTS. </p>
+      <p> <strong> Genré: </strong> Sci-fi, Isometric Squad RTS(Or shooter?) with Horror atmosfear. </p>
       <p> <strong> Inspirations: </strong> Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
     <br>
     
@@ -19,8 +19,8 @@
       <blockquote>
         <em>
           <p> - Explore combining Blueprint and C++ and explore which is better for certain tasks. </p>
-          <p> - Develup moduar systems that I can use in my future project to cut down on development time. </p>
-          <p> - Deepen my understanding of how AI works in games and learn how to make it with diffrent systems. </p>
+          <p> - Develop modular systems that I can use in my future project to cut down on development time. </p>
+          <p> - Deepen my understanding of how AI works in games and learn how to make it with different systems. </p>
           <p> - Make a System that lets me quickly pieces together rooms and how to automate it if needed. </p>
         </em>
     </blockquote>
@@ -40,8 +40,8 @@
       <blockquote>
       <em>
         <p> - Make as much of the project in C++ as possible. </p>
-        <p> - Deepen my understanding of how Story and Music can be used to effect on tone and feeling of a game. </p>
-        <p> - Explore/Implument Inverse Kinematics for character and vehicles </p>
+        <p> - Deepen my understanding of how Story and Music can be used enhance the tone and feeling of a game. </p>
+        <p> - Explore/Implement Inverse Kinematics for character and vehicles </p>
       </em>
       </blockquote>
   </details>
@@ -50,7 +50,7 @@
   <h2> World Of Dispair. </h2>
       <p> Development: R&D </p>
       <p> Engine: Unreal Engine 5 </p>
-      <p> Theme: Dark Gothic Medival Fantasy </p>
+      <p> Theme: Dark Medival Fantasy </p>
       <p> Genré: Action Advebture, 3d Person Hack and Slach. </p>
       <p> Inspirations: Gothic Horror and European Folk Lore </p>
     <br>
