@@ -3,7 +3,7 @@
     <h3> >>> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/README.md"> Back to Main Page </a> <<<  <h3> 
     <h2> <em> Game description </em> </h2>
         <p> 
-            Smash style platform fighter where your chararacter constantly jump on a pogostick. 
+            Smash style PvP platform fighter where your character constantly jumps on a pogo stick. 
             <br>The Main Idea of this project was to make a easy to pick up arena fighter that new players could enjoy and quickly get to a equal footing with more experienced player.
         </p>
         <br>
