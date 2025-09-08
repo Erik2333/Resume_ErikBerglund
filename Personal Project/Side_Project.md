@@ -1,18 +1,19 @@
 <body>
   <h1> Personal Project </h1>
       <p>
-        These are project that i have planned out for my personal growth as a game dev. Currently don't have time to spend on them since school takes priority. <br>
+        These are project that i have planned out for my personal growth as a game dev. Currently don't have time to spend on them since school takes priority.
       </p>
+      <br>
   
 <h2> Fall Champions of Greece </h2>
       <p> <em>
-        Greece have fallen into the hands of the Romans.
+        Greece have fallen into the hands of the Romans. <br>
         You use to be someone, but it dosen't mater now. Your a slave, destined to fight and die for the entertain of the people how conquered you.
-        Will you accept this fate or will you break free?
+        Will you accept this fate or will you break free from you chains?
       </em> </p>
       <p> <strong> Development: </strong> Preproduction. </p>
       <p> <strong> Engine: </strong> Unreal Engine 4 mobile game. </p>
-      <p> <strong> Genré: </strong> Action Hack and slash. </p>
+      <p> <strong> Genré: </strong> Action Hack and Slash. </p>
       <p> <strong> Inspirations: </strong> Titan Quest, Hades. </p>
       <details  open="">
       <br>
