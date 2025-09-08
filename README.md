@@ -12,7 +12,6 @@
     </p>
     <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
     <br>
-    <br>
 
 <h1> Game Developed at Yrgo </h1>
   <!--
