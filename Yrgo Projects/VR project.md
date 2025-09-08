@@ -1,6 +1,6 @@
 <body>
     <h1> VR </h1>
-    <p> Still Working on it </p>
+    <p> Project is still ongoing </p>
     <!---
     <img src=""
     <h3> >>> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/README.md"> Back to Main Page </a> <<<  <h3> 
