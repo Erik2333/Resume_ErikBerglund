@@ -1,4 +1,4 @@
-<h1 >Erik Berglund</h1>
+<h1>Erik Berglund</h1>
     <p> Welcome to My Portfolio! </p>
     <p>
       My name is Erik Berglund and I'm a man in my early 30s.
@@ -10,6 +10,7 @@
     <p>
       I will be updating this actively with new stuff that I make.
     </p>
+    <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
     <br>
     <br>
 
