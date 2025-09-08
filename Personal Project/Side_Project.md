@@ -1,9 +1,37 @@
 <body>
   <h1> Personal Project </h1>
       <p>
-        These are project that i have planned out for my personal growth as a game dev. <br>
+        These are project that i have planned out for my personal growth as a game dev. Currently don't have time to spend on them since school takes priority. <br>
       </p>
-  <h2> Tainted Earth </h2>
+  
+<h2> Fall Champions of Greece </h2>
+      <p> <em>
+        Greece have fallen into the hands of the Romans.
+        You use to be someone, but it dosen't mater now. Your a slave, destined to fight and die for the entertain of the people how conquered you.
+        Will you accept this fate or will you break free?
+      </em> </p>
+      <p> <strong> Development: </strong> Preproduction. </p>
+      <p> <strong> Engine: </strong> Unreal Engine 4 mobile game. </p>
+      <p> <strong> Genré: </strong> Action Hack and slash. </p>
+      <p> <strong> Inspirations: </strong> Titan Quest, Hades. </p>
+      <details  open="">
+      <br>
+        
+  <summary> <h3>Main goal with this project.</h3> </summary>
+      <blockquote>
+        <em>
+          <p> - Make the game in 2 to 3 mouths. </p>
+          <p> - Make it simple and fun game. </p>
+          <p> - Explore Unreal 4/5 and if its worth making mobile games on it. </p>
+          <p> - have 4 to 8 abilitys that the player can use. </p>
+          <p> - learn the widget(UI) system. </p>
+          <p> - Explore the validity and benifits of using an "older" engine vs the "new". </p>
+        </em>
+    </blockquote>
+  </details>
+  <br>
+      
+<h2> Tainted Earth </h2>
       <p> <em>
         You lead the desperate group of survivors of a penal mining colony overrun by monsters and rogue inmates. <br>
         Your Goal: Escape the colony!
@@ -27,7 +55,7 @@
   </details>
   <br>
     
-  <h2> From Rust To Dust. </h2>
+<h2> From Rust To Dust. </h2>
       <p> <strong> Development: </strong> R&D </p>
       <p> <strong> Engine: </strong> Unreal Engine 5 </p>
       <p> <strong> Theme: </strong> Post Apocalyptic Wild Western </p>
@@ -47,7 +75,7 @@
   </details>
   <br>
   
-  <h2> World Of Dispair. </h2>
+<h2> World Of Dispair. </h2>
       <p> Development: R&D </p>
       <p> Engine: Unreal Engine 5 </p>
       <p> Theme: Dark Medival Fantasy </p>
