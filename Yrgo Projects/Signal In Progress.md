@@ -3,7 +3,7 @@
     <h3> >>> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/README.md"> Back to Main Page </a> <<<  <h3> 
     <h2> <em> Game description </em> </h2>
         <p> 
-            Signal In Progress is horror game about surviving a monster attack by keeping out of the room and calling for help.
+            Signal In Progress is horror game about surviving a monster attack by keeping out of the room and sending a SOS while the monster is trying to break in.
         </p>
         <br>
     <h2> <em> My Responsibilities </em> </h2>
