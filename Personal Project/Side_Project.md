@@ -12,13 +12,13 @@
         Will you accept this fate or will you break free from you chains?
       </em> </p>
       <p> <strong> Development: </strong> Preproduction. </p>
-      <p> <strong> Engine: </strong> Unreal Engine 4 mobile game. </p>
-      <p> <strong> Genré: </strong> Action Hack and Slash. </p>
+      <p> <strong> Engine: </strong> Unreal Engine 4 or 5. </p>
+      <p> <strong> Genré: </strong> Action Hack and Slash, Mobile Game. </p>
       <p> <strong> Inspirations: </strong> Titan Quest, Hades. </p>
-      <details  open="">
       <br>
-        
-  <summary> <h3>Main goal with this project.</h3> </summary>
+      
+  <details  open="">
+    <summary> <h3>Main goal with this project.</h3> </summary>
       <blockquote>
         <em>
           <p> - Make the game in 2 to 3 mouths. </p>
