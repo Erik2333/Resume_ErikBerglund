@@ -6,6 +6,7 @@
             Smash style PvP platform fighter where your character constantly jumps on a pogo stick. 
             <br>The Main Idea of this project was to make a easy to pick up arena fighter that new players could enjoy and quickly get to a equal footing with more experienced player.
         </p>
+<img width="400" height="300" src="Images/kjOSbu.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         <br>
 <h2> <em> My Responsibilities </em> </h2>
         <ul>
