@@ -1,6 +1,7 @@
 <h1> Signal In Progress </h1>
     <img src="Images/Signal In Progress Menu.png"
     <h3> >>> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/README.md"> Back to Main Page </a> <<<  <h3> 
+    <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
     <h2> <em> Game description </em> </h2>
         <p> 
             Signal In Progress is a horror game about surviving a monster attack by keeping out of the room and sending an SOS while the monster is trying to break in.
