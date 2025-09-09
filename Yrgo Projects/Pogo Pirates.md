@@ -1,6 +1,7 @@
 <h1> Pogo Pirates </h1>
     <img src="Images/Pogo Pirates Logo.png">
-    <h3> >>> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/README.md"> Back to Main Page </a> <<<  <h3> 
+    <h3> >>> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/README.md"> Back to Main Page </a> <<<  <h3>
+    <a href="https://yrgo-game-creator.itch.io/pogopirates"> <p> Itch Link </p> </a>
     <h2> <em> Game description </em> </h2>
         <p> 
             Smash style PvP platform fighter where your character constantly jumps on a pogo stick. 
