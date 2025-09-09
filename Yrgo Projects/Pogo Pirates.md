@@ -26,7 +26,7 @@
         <p> After i was happy with it i started figureing out our second map "Ship". After several group tests we where happy with it. </p>
         <p> Third map we cut out. We dicoverd that the idea might be good but it will take to much time to fixe, so we droped it. </p>
         <p> While working on the maps I experiment with other map conseps like Swinging, Rotating and Moving platforms to make new ideas for maps. In the end we only had time for one of them and that led to "Misty" where we have a moving waterwheel with 2 moving platform.</p>
- <img src="Images/Misty.png">
+ <img src="Images/Misty.png"  width="800" height="600">
 <!--
 <h2> <em> Audio Implumentation </em> </h2>
         <p> It basically started with "how is going to implement sounds?" and after some discussion it was decided that I had the most time to dedicate to it. </p>
