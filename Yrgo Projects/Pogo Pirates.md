@@ -23,6 +23,7 @@
         <p> One of the first things i did was to make a test level and place platforms at equal distance to ensure i could perfectly understand jump distance, how they fall and what cool stuff i could imploment. Sadly they dicided to change the characters movement so the test level stopped working. </p> 
         <p> Thankfully I leaned what I needed to continue. 🫠 </p> 
         <br>
+<h3> <em> Maps </em> </h3>
         <p> I started by looking at our maps. Caribbean Islands was the first I started figuring out placement of the platforms while trying to keep it close to the original. </p>
         <p> After i was happy with it i started figureing out our second map "Ship". After several group tests we where happy with it. </p>
         <p> While working on the maps I experiment with other map conseps like Swinging, Rotating and Moving platforms to make new ideas for maps. In the end we only had time for one of them and that led to "Misty" where we have a moving waterwheel with 2 moving platform.</p>
