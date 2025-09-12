@@ -76,7 +76,7 @@
   </details>
   <br>
   
-<h2> World Of Dispair. </h2>
+<h2> Songs Of Dispair. </h2>
       <p> Development: R&D </p>
       <p> Engine: Unreal Engine 5 </p>
       <p> Theme: Dark Medival Fantasy </p>
