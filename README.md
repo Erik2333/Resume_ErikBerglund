@@ -10,7 +10,34 @@
     <p>
       I will be updating this actively with new stuff that I make.
     </p>
+    <!--
     <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
+    -->
+    <br>
+
+<h1> Intrenship at Imperial Playgrounds. </h1>
+    <h2> Project Solar </h2>
+    <!--
+    <a href=""> 
+    -->
+    <a href="https://imperialplaygrounds.com/#Solar"> 
+      <img width="1000" height="600" alt="Signal In Progress" src="Yrgo Projects/Images/header.jpg" />
+    </a>
+    <a href="https://imperialplaygrounds.com/"> <p> Studio Link </p>
+    <a href="https://store.steampowered.com/app/3071810/Project_Solar/"> <p> Steam Link </p> </a>
+    <p> 
+        Internship: 2025 nov - 2026 June. (6 months) 
+    </p> 
+    <p>
+        Role: Gameplay programmer. 
+    </p>
+    <p> 
+        Game Engine: Unreal Engine 5.6 
+    </p>
+    <p> 
+        Genré: Co-op, Puzzel, Adventure.
+    </p>
+    <br>
     <br>
 
 <h1> Game Developed at Yrgo </h1>
