@@ -14,6 +14,18 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 **Software:**\
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
 
+## 0.0 - Table of Contents
+- [Project Solar](https://github.com/Erik2333/Resume_ErikBerglund/edit/main/README.md#-project-solar-)
+  - [1.1 – Server-Authoritative Ranking System](#11--server-authoritative-ranking-system)
+    - [1.1.1 – Rank Initialization on Login](#111--rank-initialization-on-login)
+    - [1.1.2 – Transactional Rank & Currency Update](#112--transactional-rank--currency-update)
+    - [1.1.3 – Fetching Leaderboard](#113--fetching-leaderboard)
+    - [1.1.4 – Retrospective](#114--retrospective)
+  - [1.2 – Steam Microtransactions](#12--steam-microtransactions)
+- [2.0 – Game Mechanics](#20--game-mechanics)
+  - [2.1 – Haste / Freeze](#21--haste--freeze)
+- [3.0 – UI Design](#30--ui-design)
+  
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
 -->
@@ -31,12 +43,12 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 -->
 <p align="">
     <a href="https://imperialplaygrounds.com/#Solar"> 
-        <img alt="Project Solar" src="Yrgo Projects/Images/Solar/header.jpg" />
+        <img width="690" height="330" alt="bild" src="https://github.com/user-attachments/assets/2011dd2d-e884-4de9-aac5-08d44e4f056b" />
     </a>
 </p>
 
 | [Studio Webpage](https://imperialplaygrounds.com/) | 
-[Project Solar's Steam Page](https://store.steampowered.com/app/3071810/Project_Solar/) |
+[Steam Page](https://store.steampowered.com/app/3071810/Project_Solar/) |
 
 ### Date: 2025 Nov - 2026 June
 
@@ -47,8 +59,6 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 ### Engine: Unreal Engine 5.6 
 
 ### Genré: Co-op, Puzzel, Adventure
-
-### <a href="Yrgo Projects/Imperial Playgrounds.md"> Project Solar </a> <-- Click for more info!
 
 <br>
 <br>
