@@ -20,9 +20,11 @@
     <!--
     <a href=""> 
     -->
-    <a href="https://imperialplaygrounds.com/#Solar"> 
-      <img width="1000" height="600" alt="Project Solar" src="Yrgo Projects/Images/header.jpg" />
-    </a>
+    <p align="center">
+        <a href="https://imperialplaygrounds.com/#Solar"> 
+          <img width="1000" height="600" alt="Project Solar" src="Yrgo Projects/Images/Solar/header.jpg" />
+        </a>
+    </p>
     <a href="https://imperialplaygrounds.com/"> <p> Studio Link </p>
     <a href="https://store.steampowered.com/app/3071810/Project_Solar/"> <p> Steam Link </p> </a>
     <p> 
