@@ -21,7 +21,7 @@
     <a href=""> 
     -->
     <a href="https://imperialplaygrounds.com/#Solar"> 
-      <img width="1000" height="600" alt="Signal In Progress" src="Yrgo Projects/Images/header.jpg" />
+      <img width="1000" height="600" alt="Project Solar" src="Yrgo Projects/Images/header.jpg" />
     </a>
     <a href="https://imperialplaygrounds.com/"> <p> Studio Link </p>
     <a href="https://store.steampowered.com/app/3071810/Project_Solar/"> <p> Steam Link </p> </a>
