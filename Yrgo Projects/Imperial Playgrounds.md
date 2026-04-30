@@ -1,5 +1,5 @@
 <h1> Project Solar </h1>
-    <!-- <img src=""> -->
+    <img src="Yrgo Projects/Images/Solar/header.jpg">
     <h3> <a href="https://github.com/Erik2333/Resume_ErikBerglund/blob/main/README.md"> Back to Main Page </a> <h3> 
     <!-- <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a> -->
     <h2> <em> Header </em> </h2>
