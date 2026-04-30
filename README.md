@@ -15,7 +15,7 @@ I have spent a year at Yrgo studying and making video games. Now I know without 
     </a>
 </p>
 
-## <a href=""> Project Solar </a> <-- Click for more info!
+## <a href="Yrgo Projects/Imperial Playgrounds.md"> Project Solar </a> <-- Click for more info!
 <!--
 <a href=""> 
 -->
