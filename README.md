@@ -15,9 +15,7 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
 
 ## Section links
-- [##Project Solar](#-project-solar-)
-- [##Signal In Progress](#--signal-in-progress-)
-- [##Pogo Pirates](#--pogo-pirates-)
+### | [Project Solar](#-project-solar-) | [Signal In Progress](#--signal-in-progress-) | [Pogo Pirates](#--pogo-pirates-) |
   
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
