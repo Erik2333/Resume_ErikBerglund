@@ -15,16 +15,7 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
 
 ## 0.0 - Table of Contents
-- [Project Solar](https://github.com/Erik2333/Resume_ErikBerglund/edit/main/README.md#-project-solar-)
-  - [1.1 – Server-Authoritative Ranking System](#11--server-authoritative-ranking-system)
-    - [1.1.1 – Rank Initialization on Login](#111--rank-initialization-on-login)
-    - [1.1.2 – Transactional Rank & Currency Update](#112--transactional-rank--currency-update)
-    - [1.1.3 – Fetching Leaderboard](#113--fetching-leaderboard)
-    - [1.1.4 – Retrospective](#114--retrospective)
-  - [1.2 – Steam Microtransactions](#12--steam-microtransactions)
-- [2.0 – Game Mechanics](#20--game-mechanics)
-  - [2.1 – Haste / Freeze](#21--haste--freeze)
-- [3.0 – UI Design](#30--ui-design)
+- [Project Solar]()
   
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
