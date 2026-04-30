@@ -9,14 +9,20 @@ I have spent a year at Yrgo studying and making video games. Now I know without 
 -->
 
 # Imperial Playgrounds.
+<p align="center">
+    <a href="https://imperialplaygrounds.com/"> 
+        <img alt="Project Solar" src="Yrgo Projects/Images/Solar/ImperialPlaygroundsWhiteLogoFramed.png" />
+    </a>
+</p>
+
 ## <a href=""> Project Solar </a> <-- Click for more info!
 <!--
 <a href=""> 
 -->
-<p align="center">
-<a href="https://imperialplaygrounds.com/#Solar"> 
-    <img alt="Project Solar" src="Yrgo Projects/Images/Solar/header.jpg" />
-</a>
+<p align="">
+    <a href="https://imperialplaygrounds.com/#Solar"> 
+        <img alt="Project Solar" src="Yrgo Projects/Images/Solar/header.jpg" />
+    </a>
 </p>
     <a href="https://imperialplaygrounds.com/"> <p> Studio Link </p>
     <a href="https://store.steampowered.com/app/3071810/Project_Solar/"> <p> Steam Link </p> </a>
