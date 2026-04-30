@@ -1,40 +1,33 @@
-<h1>Erik Berglund</h1>
-    <p> Welcome to My Portfolio! </p>
-    <p>
-      My name is Erik Berglund and I'm a man in my early 30s.
-  <br> I have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
-    </p>
-    <p>
-      I have spent a year at Yrgo studying and making video games. Now I know without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
-    </p>
-    <p>
-      I will be updating this actively with new stuff that I make.
-    </p>
-    <!--
-    <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
-    -->
-    <br>
+# Erik Berglund
+## Welcome to My Portfolio! </p>
+My name is Erik Berglund and I have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
+<br>
+I have spent a year at Yrgo studying and making video games. Now I know without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
 
-<h1> Intrenship at Imperial Playgrounds. </h1>
-    <h2> Project Solar </h2>
-    <!--
-    <a href=""> 
-    -->
-    <p align="center">
-        <a href="https://imperialplaygrounds.com/#Solar"> 
-          <img alt="Project Solar" src="Yrgo Projects/Images/Solar/header.jpg" />
-        </a>
-    </p>
+<!--
+<a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
+-->
+
+# Imperial Playgrounds.
+## <a href=""> Project Solar </a> <-- Click for more info!
+<!--
+<a href=""> 
+-->
+<p align="center">
+<a href="https://imperialplaygrounds.com/#Solar"> 
+    <img alt="Project Solar" src="Yrgo Projects/Images/Solar/header.jpg" />
+</a>
+</p>
     <a href="https://imperialplaygrounds.com/"> <p> Studio Link </p>
     <a href="https://store.steampowered.com/app/3071810/Project_Solar/"> <p> Steam Link </p> </a>
     <p> 
-        Internship: 2025 nov - 2026 June. (6 months) 
+        Time: 2025 nov - 2026 June. (6 months) 
     </p> 
     <p>
         Role: Gameplay programmer. 
     </p>
     <p> 
-        Game Engine: Unreal Engine 5.6 
+        Engine: Unreal Engine 5.6 
     </p>
     <p> 
         Genré: Co-op, Puzzel, Adventure.
