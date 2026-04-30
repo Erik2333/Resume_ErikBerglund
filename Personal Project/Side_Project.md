@@ -3,7 +3,7 @@ These are project that i have planned out for my personal growth as a game dev.\
 Currently don't have time to spend on them since school takes priority.
 <br>
   
-## Fall Champions of Greece.
+## Rise Champion of Greece.
 ### Twin stick, hack and slash Mobile Game with 8 to 16 Activatable Abilities.
 
 > Greece have fallen into the hands of the Romans. <br>
