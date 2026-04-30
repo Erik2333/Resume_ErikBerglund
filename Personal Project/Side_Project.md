@@ -8,10 +8,11 @@ Currently don't have time to spend on them since school takes priority.
 
 <p> <em>
         Greece have fallen into the hands of the Romans. <br>
-        You use to be someone, but it dosen't mater now. Your a Gladiator, destined to fight and die for the entertain of the people how conquered you.
+        You use to be someone, but it dosen't mater anymore. <br>
+        Your a Gladiator, destined to fight and die for the entertain of the people how conquered you.
         Will you accept this fate or will you break free from you chains?
 </em> </p>
-<p> <strong> Development: </strong> Preproduction. </p>
+<p> <strong> Development: </strong> R&D. </p>
 <p> <strong> Engine: </strong> Unreal Engine 5. </p>
 <p> <strong> Genré: </strong> Action Hack and Slash, Mobile Game. </p>
 <p> <strong> Inspirations: </strong> Titan Quest, Hades. </p>
@@ -35,7 +36,7 @@ Currently don't have time to spend on them since school takes priority.
         You lead the desperate group of survivors of a penal mining colony overrun by monsters and rogue inmates. <br>
         Your Goal: Escape the colony!
       </em> </p>
-      <p> <strong> Development: </strong> Preproduction </p>
+      <p> <strong> Development: </strong> R&D </p>
       <p> <strong> Engine: </strong> Unreal Engine 5 </p>
       <p> <strong> Genré: </strong> Sci-fi, Isometric Squad RTS(Or shooter?) with Horror atmosfear. </p>
       <p> <strong> Inspirations: </strong> Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
