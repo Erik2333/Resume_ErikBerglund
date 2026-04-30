@@ -1,8 +1,8 @@
-# Erik Berglund
-## Welcome to My Portfolio! </p>
+# Welcome to My Portfolio!
+## Erik Berglund
 My name is Erik Berglund and I have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
-<br>
-I have spent a year at Yrgo studying and making video games. Now I know without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
+<br><br>
+I have spent a two year at Yrgo studying programming and making video games. Now I can now say without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
 
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
