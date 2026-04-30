@@ -22,11 +22,12 @@ Currently don't have time to spend on them since school takes priority.
         <em>
           <p> - Make the game in 4 to 6 months, record what systems I made and what problems they solved. </p>
           <p> - Make it simple and make it fun. </p>
+          <p> - Deepen my understanding of the widget(UI) system. </p>
           <p> - Explore Unreal 5 and if its worth making mobile games on it. </p>
           <p> - Explore Optimization needed for Mobile Games and what i can use for bigger projects. </p>
           <p> - Have 8 to 16 abilitys that the player can use depending on that "joysick" is active. </p>
           <p> - One joystick for movement and one for aiming abilities. </p>
-          <p> - Deepen my understanding of the widget(UI) system. </p>
+          <p> - Make simple AI with state machine or behaviour tree. </p>
         </em>
     </blockquote>
   </details>
@@ -49,7 +50,7 @@ Currently don't have time to spend on them since school takes priority.
         <em>
           <p> - Make the game in 6 to 9 months and Record what went Right/Wrong.  </p>
           <p> - Explore combining Blueprint and C++. Also, explore which is better for certain tasks. </p>
-          <p> - Develop modular systems that I can use in my future project to cut down on development time. </p>
+          <p> - Develop genaric systems that I can use in my future project to cut down on development time. </p>
           <p> - Deepen my understanding of how AI works in Unreal and make it either state machine, behaviour tree or goap. </p>
           <p> - Make a System that lets me quickly pieces together rooms with the qoal of automating it(if needed). </p>
         </em>
