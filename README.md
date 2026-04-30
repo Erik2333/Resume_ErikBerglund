@@ -15,7 +15,7 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
 
 ## 0.0 - Table of Contents
-- [Project Solar]()
+- [Project Solar](#-project-solar-)
   
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
