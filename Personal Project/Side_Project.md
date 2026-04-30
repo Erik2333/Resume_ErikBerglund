@@ -38,7 +38,7 @@ Currently don't have time to spend on them since school takes priority.
       </em> </p>
       <p> <strong> Development: </strong> R&D </p>
       <p> <strong> Engine: </strong> Unreal Engine 5 </p>
-      <p> <strong> Genré: </strong> Sci-fi, Isometric Squad RTS(Or shooter?) with Horror atmosfear. </p>
+      <p> <strong> Genré: </strong> Sci-fi, Isometric Squad RTS(Or shooter?) with Horror atmosphere. </p>
       <p> <strong> Inspirations: </strong> Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
     <br>
     
