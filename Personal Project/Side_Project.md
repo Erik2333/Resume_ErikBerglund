@@ -20,10 +20,11 @@ Currently don't have time to spend on them since school takes priority.
     <summary> <h3>Main goal with this project.</h3> </summary>
       <blockquote>
         <em>
-          <p> - Make the game in 2 to 3 mouths. </p>
+          <p> - Make the game in 4 to 6 months, record what systems I made and what problems they solved. </p>
           <p> - Make it simple and make it fun. </p>
           <p> - Explore Unreal 5 and if its worth making mobile games on it. </p>
-          <p> - have 4 to 8 abilitys that the player can use. </p>
+          <p> - Explore Optimization needed for Mobile Games and what i can use for bigger projects. </p>
+          <p> - have 8 to 16 abilitys that the player can use depending on that "joysick" is active(one for movement and one for aiming abilities). </p>
           <p> - Deepen my understanding of the widget(UI) system. </p>
         </em>
     </blockquote>
@@ -45,6 +46,7 @@ Currently don't have time to spend on them since school takes priority.
      <summary> <h3>Main goal with this project.</h3> </summary>
       <blockquote>
         <em>
+          <p> - Make the game in 6 to 9 months and Record what went Right/Wrong.  </p>
           <p> - Explore combining Blueprint and C++. Also, explore which is better for certain tasks. </p>
           <p> - Develop modular systems that I can use in my future project to cut down on development time. </p>
           <p> - Deepen my understanding of how AI works in Unreal and make it either state machine, behaviour tree or goap. </p>
