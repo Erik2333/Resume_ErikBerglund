@@ -5,7 +5,7 @@ Games have always had a special place in my heart ever since the first time I pl
 
 I have spent a two year at Yrgo Game Creator Programming and making video games. Now I can now say without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
 
-**Programing Skills:**\
+**Programming Skills:**\
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 
 **Game Engines:**\
