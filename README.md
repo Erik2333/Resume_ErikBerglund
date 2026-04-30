@@ -20,7 +20,9 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 
 ## Section links
 ### | [Project Solar](#-project-solar-) | [Signal In Progress](#--signal-in-progress-) | [Pogo Pirates](#--pogo-pirates-) |
+<br>
 
+# <p align=""> Imperial Playgrounds </p>
 <p align="center">
     <a href="https://imperialplaygrounds.com/"> 
         <img alt="Imperial Playgrounds" src="Yrgo Projects/Images/Solar/ImperialPlaygroundsWhiteLogoFramed.png" />
@@ -40,13 +42,13 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 | [Studio Webpage](https://imperialplaygrounds.com/) | 
 [Steam Page](https://store.steampowered.com/app/3071810/Project_Solar/) | [Back to Top](#welcome-to-my-portfolio) |
 
-### Date: 2025 Nov - 2026 June
+### Date: 2025 Nov - 2026 June.
 
-### Roles: Gameplay Programmer
+### Role(s)/Jobs: Gameplay Programmer, UI Programmer.
 
-### Engine: Unreal Engine 5.6 
+### Engine: Unreal Engine 5.6.
 
-### Genré: Co-op, Puzzel, Adventure
+### Genré: Co-op, Puzzel, Adventure.
 
 <br>
 <br>
