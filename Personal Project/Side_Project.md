@@ -1,32 +1,29 @@
-<body>
-  <h1> Personal Project </h1>
-      <p>
+# Personal Project </h1>
+<p>
         These are project that i have planned out for my personal growth as a game dev. Currently don't have time to spend on them since school takes priority.
-      </p>
-      <br>
+</p>
+<br>
   
-<h2> Fall Champions of Greece </h2>
-      <p> <em>
+## Fall Champions of Greece.
+<p> <em>
         Greece have fallen into the hands of the Romans. <br>
-        You use to be someone, but it dosen't mater now. Your a gladiator, destined to fight and die for the entertain of the people how conquered you.
+        You use to be someone, but it dosen't mater now. Your a Gladiator, destined to fight and die for the entertain of the people how conquered you.
         Will you accept this fate or will you break free from you chains?
-      </em> </p>
-      <p> <strong> Development: </strong> Preproduction. </p>
-      <p> <strong> Engine: </strong> Unreal Engine 4 or 5. </p>
-      <p> <strong> Genré: </strong> Action Hack and Slash, Mobile Game. </p>
-      <p> <strong> Inspirations: </strong> Titan Quest, Hades. </p>
-      <br>
+</em> </p>
+<p> <strong> Development: </strong> Preproduction. </p>
+<p> <strong> Engine: </strong> Unreal Engine 5. </p>
+<p> <strong> Genré: </strong> Action Hack and Slash, Mobile Game. </p>
+<p> <strong> Inspirations: </strong> Titan Quest, Hades. </p>
       
   <details  open="">
     <summary> <h3>Main goal with this project.</h3> </summary>
       <blockquote>
         <em>
           <p> - Make the game in 2 to 3 mouths. </p>
-          <p> - Make it simple and fun game. </p>
-          <p> - Explore Unreal 4/5 and if its worth making mobile games on it. </p>
+          <p> - Make it simple and make it fun. </p>
+          <p> - Explore Unreal 5 and if its worth making mobile games on it. </p>
           <p> - have 4 to 8 abilitys that the player can use. </p>
-          <p> - learn the widget(UI) system. </p>
-          <p> - Explore the validity and benifits of using an "older" engine vs the "new". </p>
+          <p> - Deepen my understanding of the widget(UI) system. </p>
         </em>
     </blockquote>
   </details>
@@ -47,10 +44,10 @@
      <summary> <h3>Main goal with this project.</h3> </summary>
       <blockquote>
         <em>
-          <p> - Explore combining Blueprint and C++ and explore which is better for certain tasks. </p>
+          <p> - Explore combining Blueprint and C++. Also, explore which is better for certain tasks. </p>
           <p> - Develop modular systems that I can use in my future project to cut down on development time. </p>
-          <p> - Deepen my understanding of how AI works in Unreal and make it either behaviour tree or goap. </p>
-          <p> - Make a System that lets me quickly pieces together rooms and how to automate it if needed. </p>
+          <p> - Deepen my understanding of how AI works in Unreal and make it either state machine, behaviour tree or goap. </p>
+          <p> - Make a System that lets me quickly pieces together rooms with the qoal of automating it(if needed). </p>
         </em>
     </blockquote>
   </details>
@@ -58,7 +55,7 @@
     
 <h2> From Rust To Dust. </h2>
       <p> <strong> Development: </strong> R&D </p>
-      <p> <strong> Engine: </strong> Unity 6 </p>
+      <p> <strong> Engine: </strong> Unreal 5 </p>
       <p> <strong> Theme: </strong> Post Apocalyptic Wild Western </p>
       <p> <strong> Genré: </strong> 3d Person Shotter with Vehical Combat. </p>
       <p> <strong> Inspirations: </strong> Laika aged through blood, Red Dead Redempion, Mad Max. </p>
@@ -87,18 +84,7 @@
   <details open="">
     <summary> <h3> Main goal with this project. </h3> </summary>
       <blockquote>
-        <p> <em> Make a Epic Game </em> &#128513; </p>
+        <p> <em> Make It Epic </em> &#128513; </p>
       </blockquote>
   </details>
   <br>
-
-  
-      
-  <br>
-  <br>
-  
-
-<body/>
-<!--
-style='font-size:300px;'
--->
