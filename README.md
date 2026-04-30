@@ -53,9 +53,11 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 <br>
 <br>
 
-<h1> Game Developed at Yrgo </h1>
+<h1> Games Developed at Yrgo </h1>
 <p align="center">
-<img width="960" height="300" alt="bild" src="https://github.com/user-attachments/assets/0513219e-1cec-4614-9df9-ac1dbd8a8914" />
+    <a href=https://www.yrgo.se/program/game-developer/>
+        <img width="960" height="300" alt="bild" src="https://github.com/user-attachments/assets/0513219e-1cec-4614-9df9-ac1dbd8a8914" />
+    </a>
 </p>
   
 <h2> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Signal%20In%20Progress.md> Signal In Progress </a></h2>
