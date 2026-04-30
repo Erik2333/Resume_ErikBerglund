@@ -4,7 +4,7 @@ Currently don't have time to spend on them since school takes priority.
 <br>
   
 ## Fall Champions of Greece.
-> Twin stick hack and slash Mobile Game with 8 to 16 abilitys.
+> Twin stick, hack and slash Mobile Game with 8 to 16 Activatable Abilities.
 
 <p> <em>
         Greece have fallen into the hands of the Romans. <br>
