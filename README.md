@@ -1,21 +1,31 @@
 # Welcome to My Portfolio!
 ## Erik Berglund
-My name is Erik Berglund and I have always had a special place in my heart for games since I first played Castlevania and Super Mario Bros on the NES when I was five years old.
-<br><br>
+
+Games have always had a special place in my heart ever since the first time I played Castlevania, Ninja Gaiden and Super Mario Bros on the NES when I was a little kid.
+
 I have spent a two year at Yrgo studying programming and making video games. Now I can now say without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
+
+**Programing Skills:**\
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
+
+**Game Engines:**\
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,ps=light)](https://skillicons.dev)
+
+**Software:**\
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
 
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
 -->
 
-# Imperial Playgrounds.
+# 
 <p align="center">
     <a href="https://imperialplaygrounds.com/"> 
-        <img alt="Project Solar" src="Yrgo Projects/Images/Solar/ImperialPlaygroundsWhiteLogoFramed.png" />
+        <img alt="Imperial Playgrounds" src="Yrgo Projects/Images/Solar/ImperialPlaygroundsWhiteLogoFramed.png" />
     </a>
 </p>
 
-## <a href="Yrgo Projects/Imperial Playgrounds.md"> Project Solar </a> <-- Click for more info!
+## <a href="Yrgo Projects/Imperial Playgrounds.md"> Project Solar </a>
 <!--
 <a href=""> 
 -->
@@ -24,22 +34,24 @@ I have spent a two year at Yrgo studying programming and making video games. Now
         <img alt="Project Solar" src="Yrgo Projects/Images/Solar/header.jpg" />
     </a>
 </p>
-    <a href="https://imperialplaygrounds.com/"> <p> Studio Link </p>
-    <a href="https://store.steampowered.com/app/3071810/Project_Solar/"> <p> Steam Link </p> </a>
-    <p> 
-        Time: 2025 nov - 2026 June. (6 months) 
-    </p> 
-    <p>
-        Role: Gameplay programmer. 
-    </p>
-    <p> 
-        Engine: Unreal Engine 5.6 
-    </p>
-    <p> 
-        Genré: Co-op, Puzzel, Adventure.
-    </p>
-    <br>
-    <br>
+
+| [Studio Webpage](https://imperialplaygrounds.com/) | 
+[Project Solar's Steam Page](https://store.steampowered.com/app/3071810/Project_Solar/) |
+
+### Date: 2025 Nov - 2026 June
+
+### Roles: 
+- Gameplay Programmer
+- Gameplay Tester
+
+### Engine: Unreal Engine 5.6 
+
+### Genré: Co-op, Puzzel, Adventure
+
+### <a href="Yrgo Projects/Imperial Playgrounds.md"> Project Solar </a> <-- Click for more info!
+
+<br>
+<br>
 
 <h1> Game Developed at Yrgo </h1>
   <!--
