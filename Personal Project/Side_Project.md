@@ -24,7 +24,8 @@ Currently don't have time to spend on them since school takes priority.
           <p> - Make it simple and make it fun. </p>
           <p> - Explore Unreal 5 and if its worth making mobile games on it. </p>
           <p> - Explore Optimization needed for Mobile Games and what i can use for bigger projects. </p>
-          <p> - have 8 to 16 abilitys that the player can use depending on that "joysick" is active(one for movement and one for aiming abilities). </p>
+          <p> - Have 8 to 16 abilitys that the player can use depending on that "joysick" is active. </p>
+          <p> - One joystick for movement and one for aiming abilities. </p>
           <p> - Deepen my understanding of the widget(UI) system. </p>
         </em>
     </blockquote>
