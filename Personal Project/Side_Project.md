@@ -4,18 +4,17 @@ Currently don't have time to spend on them since school takes priority.
 <br>
   
 ## Fall Champions of Greece.
-> Twin stick, hack and slash Mobile Game with 8 to 16 Activatable Abilities.
+### Twin stick, hack and slash Mobile Game with 8 to 16 Activatable Abilities.
 
-<p> <em>
-        Greece have fallen into the hands of the Romans. <br>
-        You use to be someone, but it dosen't mater anymore. <br>
-        Your a Gladiator, destined to fight and die for the entertain of the people how conquered you. <br>
-        Will you accept this fate or will you break free from you chains?
-</em> </p>
+> Greece have fallen into the hands of the Romans. <br>
+> You use to be someone, but it dosen't mater anymore. <br>
+> Your a Gladiator, destined to fight and die for the entertain of the people how conquered you. <br>
+> Will you accept this fate or will you break free from you chains?
+
 <p> <strong> Development: </strong> R&D. </p>
 <p> <strong> Engine: </strong> Unreal Engine 5. </p>
 <p> <strong> Genré: </strong> Action Hack and Slash, Mobile Game. </p>
-<p> <strong> Inspirations: </strong> Titan Quest, Hades. </p>
+<p> <strong> Inspirations: </strong> Titan Quest, Hades, Tyranny. </p>
       
   <details  open="">
     <summary> <h3>Main goal with this project.</h3> </summary>
@@ -31,16 +30,16 @@ Currently don't have time to spend on them since school takes priority.
   </details>
   <br>
       
-<h2> Tainted Earth </h2>
-      <p> <em>
-        You lead the desperate group of survivors of a penal mining colony overrun by monsters and rogue inmates. <br>
-        Your Goal: Escape the colony!
-      </em> </p>
-      <p> <strong> Development: </strong> R&D </p>
-      <p> <strong> Engine: </strong> Unreal Engine 5 </p>
-      <p> <strong> Genré: </strong> Sci-fi, Isometric Squad RTS(Or shooter?) with Horror atmosphere. </p>
-      <p> <strong> Inspirations: </strong> Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
-    <br>
+## Tainted Earth 
+<p> <em>
+  You lead the desperate group of survivors of a penal mining colony overrun by monsters and rogue inmates. <br>
+  Your Goal: Escape the colony!
+</em> </p>
+<p> <strong> Development: </strong> R&D </p>
+<p> <strong> Engine: </strong> Unreal Engine 5 </p>
+<p> <strong> Genré: </strong> Sci-fi, Isometric Squad Shooter/RTS with Horror atmosphere. </p>
+<p> <strong> Inspirations: </strong> Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
+<br>
     
   <details  open="">
      <summary> <h3>Main goal with this project.</h3> </summary>
@@ -55,13 +54,13 @@ Currently don't have time to spend on them since school takes priority.
   </details>
   <br>
     
-<h2> From Rust To Dust. </h2>
-      <p> <strong> Development: </strong> R&D </p>
-      <p> <strong> Engine: </strong> Unreal 5 </p>
-      <p> <strong> Theme: </strong> Post Apocalyptic Wild Western </p>
-      <p> <strong> Genré: </strong> 3d Person Shotter with Vehical Combat. </p>
-      <p> <strong> Inspirations: </strong> Laika aged through blood, Red Dead Redempion, Mad Max. </p>
-    <br>
+## From Rust To Dust.
+<p> <strong> Development: </strong> R&D </p>
+<p> <strong> Engine: </strong> Unreal 5 </p>
+<p> <strong> Theme: </strong> Post Apocalyptic Wild Western </p>
+<p> <strong> Genré: </strong> 3d Person Shotter with Vehical Combat. </p>
+<p> <strong> Inspirations: </strong> Laika aged through blood, Red Dead Redempion, Mad Max. </p>
+<br>
       
   <details open="">
     <summary> <h3> Main goal with this project. </h3> </summary>
