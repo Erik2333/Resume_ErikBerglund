@@ -41,7 +41,7 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 </p>
 
 | [Studio Webpage](https://imperialplaygrounds.com/) | 
-[Steam Page](https://store.steampowered.com/app/3071810/Project_Solar/) | [Back to top](#section-links) |
+[Steam Page](https://store.steampowered.com/app/3071810/Project_Solar/) | [Back to top](#welcome-to-my-portfolio) |
 
 ### Date: 2025 Nov - 2026 June
 
