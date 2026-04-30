@@ -14,7 +14,7 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 **Software:**\
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
 
-## Project Index
+## Section links
 - [Project Solar](#-project-solar-)
 - [Signal In Progress](#--signal-in-progress-)
 - [Pogo Pirates](#--pogo-pirates-)
