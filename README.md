@@ -45,9 +45,7 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 
 ### Date: 2025 Nov - 2026 June
 
-### Roles: 
-- Gameplay Programmer
-- Gameplay Tester
+### Roles: Gameplay Programmer
 
 ### Engine: Unreal Engine 5.6 
 
