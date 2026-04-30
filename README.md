@@ -3,7 +3,7 @@
 
 Games have always had a special place in my heart ever since the first time I played Castlevania, Ninja Gaiden and Super Mario Bros on the NES when I was a little kid.
 
-I have spent a two year at Yrgo studying programming and making video games. Now I can now say without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
+I have spent a two year at Yrgo Game Creator Programming and making video games. Now I can now say without a doubt that I want to develop games for the rest of my life and meet cool people in the industry.
 
 **Programing Skills:**\
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
@@ -14,14 +14,13 @@ I have spent a two year at Yrgo studying programming and making video games. Now
 **Software:**\
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
 
-## Section links
-### | [Project Solar](#-project-solar-) | [Signal In Progress](#--signal-in-progress-) | [Pogo Pirates](#--pogo-pirates-) |
-  
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
 -->
 
-# 
+## Section links
+### | [Project Solar](#-project-solar-) | [Signal In Progress](#--signal-in-progress-) | [Pogo Pirates](#--pogo-pirates-) |
+
 <p align="center">
     <a href="https://imperialplaygrounds.com/"> 
         <img alt="Imperial Playgrounds" src="Yrgo Projects/Images/Solar/ImperialPlaygroundsWhiteLogoFramed.png" />
