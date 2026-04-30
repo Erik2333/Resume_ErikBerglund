@@ -12,7 +12,7 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 [![My Skills](https://skillicons.dev/icons?i=unreal,unity,ps=light)](https://skillicons.dev)
 
 **Software:**\
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,ps=light)](https://skillicons.dev)
 
 <!--
 <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/CV.pdf > <p> My CV </p> </a>
