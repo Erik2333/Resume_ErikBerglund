@@ -54,20 +54,9 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 <br>
 
 <h1> Game Developed at Yrgo </h1>
-  <!--
-    <h2> VR project: ??? </h2>
-    <a href="https://yrgo-game-creator.itch.io/signal-in-progress">
-      <img width="1188" height="676" alt="Signal In Progress" src="https://github.com/user-attachments/assets/123d3460-c59c-4656-9810-f91403698d39" />
-    </a>
-    <a href=https://yrgo-game-creator.itch.io/signal-in-progress> <p> Itch Link </p> </a>
-    <p> Development: 2026 Sep - 2026 Oct. (6 Weeks)</p> 
-    <p> My Role: . </p>
-    <p> Engine: Unity 6 </p>
-    <p> Genré: ???. </p>
-    <p> Team: 3 programmers. </em> </p>
-    <br>
-    <br>
-  -->
+<p align="center">
+<img width="960" height="300" alt="bild" src="https://github.com/user-attachments/assets/0513219e-1cec-4614-9df9-ac1dbd8a8914" />
+</p>
   
 <h2> <a href=https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Signal%20In%20Progress.md> Signal In Progress </a></h2>
     <img width="1596" height="894" alt="Main Menu BG Logo" src="Yrgo Projects/Images/Signal In Progress Menu.png" />
