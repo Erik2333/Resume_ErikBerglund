@@ -8,7 +8,7 @@
 <h2> Fall Champions of Greece </h2>
       <p> <em>
         Greece have fallen into the hands of the Romans. <br>
-        You use to be someone, but it dosen't mater now. Your a slave, destined to fight and die for the entertain of the people how conquered you.
+        You use to be someone, but it dosen't mater now. Your a gladiator, destined to fight and die for the entertain of the people how conquered you.
         Will you accept this fate or will you break free from you chains?
       </em> </p>
       <p> <strong> Development: </strong> Preproduction. </p>
