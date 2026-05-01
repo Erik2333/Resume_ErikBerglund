@@ -6,10 +6,11 @@ Currently don't have time to spend on them since school takes priority.
 ## Rise Champion of Greece.
 ### Twin stick, hack and slash Mobile Game with 8 to 16 Activatable Abilities.
 
-> Greece have fallen into the hands of the Romans. <br>
-> You use to be someone, but it dosen't mater anymore. <br>
-> Your a Gladiator, destined to fight and die for the entertain of the people how conquered you. <br>
-> Will you accept this fate or will you break free from you chains?
+> <em> Greece have fallen into the hands of the Romans. </em><br>
+> <em> You use to be someone, but it dosen't mater anymore.</em><br>
+> <em> Your a Gladiator, destined to fight and die for the entertain of the people how conquered you. </em><br>
+> <em> Will you accept this fate or will you break free from you chains? </em>
+
 
 <p> <strong> Development: </strong> R&D. </p>
 <p> <strong> Engine: </strong> Unreal Engine 5. </p>
