@@ -34,15 +34,14 @@ Currently don't have time to spend on them since school takes priority.
   <br>
       
 ## Tainted Earth 
-<p> <em>
-  You lead the desperate group of survivors of a penal mining colony overrun by monsters and rogue inmates. <br>
-  Your Goal: Escape the colony!
-</em> </p>
+
+> You lead the desperate group of survivors of a penal mining colony overrun by monsters and rogue inmates. <br>
+> Your Goal: Escape the colony!
+
 <p> <strong> Development: </strong> R&D </p>
 <p> <strong> Engine: </strong> Unreal Engine 5 </p>
 <p> <strong> Genré: </strong> Sci-fi, Isometric Squad Shooter/RTS with Horror atmosphere. </p>
 <p> <strong> Inspirations: </strong> Dead Space, The Callisto Protocol, Aliens Dark Descent. </p>
-<br>
     
   <details  open="">
      <summary> <h3>Main goal with this project.</h3> </summary>
@@ -64,7 +63,6 @@ Currently don't have time to spend on them since school takes priority.
 <p> <strong> Theme: </strong> Post Apocalyptic Wild Western </p>
 <p> <strong> Genré: </strong> 3d Person Shotter with Vehical Combat. </p>
 <p> <strong> Inspirations: </strong> Laika aged through blood, Red Dead Redempion, Mad Max. </p>
-<br>
       
   <details open="">
     <summary> <h3> Main goal with this project. </h3> </summary>
