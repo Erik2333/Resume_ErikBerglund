@@ -14,22 +14,22 @@
 ## <em> My Responsibilities </em>
 
 
-### Pull Lever
+## Pull Lever
 <img width="800" height="369" alt="bild" src="https://github.com/user-attachments/assets/8e4ab93c-9bf6-436b-abe5-44d4537eca20" />
 <br>
 
 
-### Mushroom
+## Mushroom
 <img width="800" height="431" alt="bild" src="https://github.com/user-attachments/assets/bc386cc4-0c32-40af-853c-6359b4f0b1b8" />
 <br>
 
 
-### Pull Rock
+## Pull Rock
 <img width="800" height="431" alt="bild" src="https://github.com/user-attachments/assets/befc2d45-0e8d-4169-b436-90db657f7d44" />
 <br>
 
 
-### Ground Pound Sensor
+## Ground Pound Sensor
 <img width="800" height="368" alt="bild" src="https://github.com/user-attachments/assets/3eabef97-1c02-4859-90ee-2e52211aee85" />
 <br>
 
