@@ -21,6 +21,8 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 
 ## Section links
 ### | [Project Solar](#-project-solar-) | [Signal In Progress](#--signal-in-progress-) | [Pogo Pirates](#--pogo-pirates-) |
+
+<br>
 <br>
 
 # <p align=""> Imperial Playgrounds </p>
@@ -51,7 +53,6 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 ### Genré: Co-op, Puzzel, Adventure.
 
 <br>
-<br>
 
 <h1> Games Developed at Yrgo </h1>
 <p align="center">
@@ -72,7 +73,6 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 ### Team: 4 programmers and 2 Artists.
     
   <br>
-  <br>
   
 ## [Pogo Pirates](https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Pogo%20Pirates.md)
 <a href="https://yrgo-game-creator.itch.io/pogopirates">
@@ -86,27 +86,3 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 ### Engine: Unity.
 ### Genré: PvP Arena Fighter.
 ### Team: 4 Programmers, 3 Artists and a Sound Artist/Desiner.
-    
-  <br>
-  <br>
-
-
-<!--
-
-<h1> Other Smaller Projects </h1>
-
-<h2> Unnamed Unreal Shooter </h2>
-<p> Developed: 4 weeks </p>
-<p> My Role: Sound and Level design </p>
-<p> Engine: Unreal 5 </p>
-<p> Genré: Shooter. </p>
-<p> Team: Myself </p>
-
-<h2> Single player Battle Ship </h2>
-<p> Developed: 4 weeks </p>
-<p> My Role: Sound and Level design </p>
-<p> Engine: Unity </p>
-<p> Genré: Tactics Smartphone game </p>
-<p> Team: Myself </p>
-
--->
