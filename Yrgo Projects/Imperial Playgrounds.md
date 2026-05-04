@@ -10,8 +10,10 @@
     Text.
 </p>
 <br>
+<br>
 
-## <em> My Responsibilities </em>
+## My Responsibilities
+<br>
 
 
 ## Pull Lever
@@ -34,7 +36,7 @@
 <br>
 
 
-### Trophy Room Renovation
+## Trophy Room Renovation
 <img width="800" height="302" alt="bild" src="https://github.com/user-attachments/assets/5aad9f5b-f98d-4de1-b16d-b4684b639e03" />
 <br>
 
