@@ -72,13 +72,14 @@ I have spent a two year at Yrgo Game Creator Programming and making video games.
 ### Engine: Unity 6.
 ### Genré: 3D Horror. </p>
 ### Team: 4 programmers and 2 Artists.
-    
-  <br>
+
+<br>
   
 ## [Pogo Pirates](https://github.com/Erik2333/Resume_ErikBerglund/blob/main/Yrgo%20Projects/Pogo%20Pirates.md)
 <a href="https://yrgo-game-creator.itch.io/pogopirates">
       <img width="1596" height="894" alt="Main Menu BG Logo" src="https://github.com/user-attachments/assets/fbfabe9b-5019-4837-a5b5-e438731db905" />
 </a>
+<br>
 
 | [Itch Link](https://yrgo-game-creator.itch.io/pogopirates) |
 [Back to Top](#welcome-to-my-portfolio) |
