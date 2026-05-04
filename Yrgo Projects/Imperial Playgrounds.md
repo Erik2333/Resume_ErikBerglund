@@ -39,7 +39,11 @@
 
 <br>
 
-## Trophy Room Renovation
+## Scanning System
 <img width="800" height="302" alt="bild" src="Images/Solar/Gif Folder/Scan System (18mb).gif" />
+<br>
+
+## Trophy Room Renovation
+<img width="800" height="302" alt="bild" src="Images/Solar/Gif Folder/Trophy Room.gif" />
 <br>
 
